@@ -1,0 +1,2120 @@
+[
+  {
+    "id": "ag-01",
+    "name": "GROVE TerraForce 45 HP 4WD Heavy Tractor",
+    "slug": "grove-terraforce-45-hp-4wd-heavy-tractor",
+    "category": "Farm Machinery",
+    "description": "Heavy-duty 45 HP 4-wheel drive agricultural tractor with synchromesh transmission, dual-clutch, and high hydraulic lift capacity for wet and dry fields.",
+    "image": "https://images.unsplash.com/photo-1595246140625-573b715d11dc?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-tractor.png",
+    "price": 585000,
+    "originalPrice": 630000,
+    "discount": "7% OFF",
+    "savings": 45000,
+    "rating": 4.9,
+    "reviewCount": 164,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "GROVE Agro",
+    "featured": true,
+    "specifications": {
+      "Horsepower": "45 HP",
+      "Drive": "4WD",
+      "Hydraulic Lift": "1800 kg",
+      "Warranty": "2 Years OEM"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1595246140625-573b715d11dc?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-tractor.png",
+      "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523741543316-beb7fc7023d8?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Engineered with genuine heavy-duty components for demanding Indian soil conditions",
+      "Verified 45 HP power output with optimal fuel economy",
+      "Equipped with standard 3-point linkage compatible with all Indian agricultural implements",
+      "Backed by 2 Years comprehensive OEM warranty and nationwide certified dealer network",
+      "Eligible for State SMAM & Central Agricultural Mechanization Subsidies"
+    ],
+    "seller": {
+      "name": "GROVE Agro Direct OEM Depot",
+      "rating": 4.9,
+      "badge": "Certified Brand Depot",
+      "location": "Pune, Maharashtra",
+      "fulfillment": "GROVE Assured Farm Logistics",
+      "pincode": "411001",
+      "coordinates": {
+        "lat": 18.5204,
+        "lng": 73.8567
+      }
+    },
+    "warranty": "2 Years OEM",
+    "subsidy": {
+      "eligible": true,
+      "scheme": "Sub-Mission on Agricultural Mechanization (SMAM)",
+      "rate": "40% - 50% Subsidy",
+      "details": "Meets DBT Agriculture Portal mechanization specifications. Eligible for state DBT capital assistance for small & marginal farmers."
+    },
+    "offers": [
+      "Govt Subsidy: 40% - 50% Subsidy claimable under Sub-Mission on Agricultural Mechanization (SMAM)",
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "5 - 7 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "machinery",
+      "horsepower": "45 HP",
+      "powerSource": "4-Cylinder Direct-Injection Diesel",
+      "driveType": "4-Wheel Drive (4WD)",
+      "workingWidth": "Standard Track Gauge",
+      "transmission": "8 Forward + 2 Reverse Synchromesh",
+      "warranty": "2 Years Comprehensive OEM Warranty with Doorstep Service"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Gurpreet Singh Dhillon",
+        "location": "Ludhiana, Punjab",
+        "rating": 5,
+        "date": "14 Oct 2026",
+        "verified": true,
+        "cropGrown": "Paddy & Wheat (22 Acres)",
+        "title": "Outstanding pulling power and low diesel consumption",
+        "comment": "Purchased for our rabi season preparation. The machine handles deep clay soil without overheating. The local GROVE dealer delivered it straight to my farm gate within 4 days with complete tool kit and warranty booklet.",
+        "helpfulCount": 38
+      },
+      {
+        "id": "rev-2",
+        "author": "Rameshwar Patil",
+        "location": "Kolhapur, Maharashtra",
+        "rating": 5,
+        "date": "28 Sep 2026",
+        "verified": true,
+        "cropGrown": "Sugarcane & Soybean (14 Acres)",
+        "title": "Worth every rupee with SMAM subsidy support",
+        "comment": "Very solid build quality. The GROVE Kisan desk helped me with the GST invoice and subsidy submission papers. The hydraulics are fast and stable with my heavy rotary tiller.",
+        "helpfulCount": 24
+      },
+      {
+        "id": "rev-3",
+        "author": "K. Venkat Reddy",
+        "location": "Warangal, Telangana",
+        "rating": 4,
+        "date": "05 Sep 2026",
+        "verified": true,
+        "cropGrown": "Cotton & Chillies (10 Acres)",
+        "title": "Excellent performance, operator seat is very comfortable",
+        "comment": "Ran it continuously for 8 hours during tilling. Minimal vibrations and easy gear shifting. Highly recommended for farmers needing dependable equipment.",
+        "helpfulCount": 19
+      }
+    ]
+  },
+  {
+    "id": "ag-02",
+    "name": "Compact Orchard Mini Tractor 25 HP",
+    "slug": "compact-orchard-mini-tractor-25-hp",
+    "category": "Farm Machinery",
+    "description": "Agile and fuel-efficient 25 HP compact tractor specifically designed for orchards, vineyards, and inter-crop cultivation.",
+    "image": "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-tractor.png",
+    "price": 350000,
+    "originalPrice": 399000,
+    "discount": "12% OFF",
+    "savings": 49000,
+    "rating": 4.7,
+    "reviewCount": 128,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "GROVE Agro",
+    "featured": true,
+    "specifications": {
+      "Horsepower": "25 HP",
+      "Drive": "2WD",
+      "Turning Radius": "2.4 m",
+      "Warranty": "2 Years OEM"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-tractor.png",
+      "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523741543316-beb7fc7023d8?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Engineered with genuine heavy-duty components for demanding Indian soil conditions",
+      "Verified 25 HP power output with optimal fuel economy",
+      "Equipped with standard 3-point linkage compatible with all Indian agricultural implements",
+      "Backed by 2 Years comprehensive OEM warranty and nationwide certified dealer network",
+      "Eligible for State SMAM & Central Agricultural Mechanization Subsidies"
+    ],
+    "seller": {
+      "name": "GROVE Agro Direct OEM Depot",
+      "rating": 4.9,
+      "badge": "Certified Brand Depot",
+      "location": "Pune, Maharashtra",
+      "fulfillment": "GROVE Assured Farm Logistics",
+      "pincode": "411001",
+      "coordinates": {
+        "lat": 18.5204,
+        "lng": 73.8567
+      }
+    },
+    "warranty": "2 Years OEM",
+    "subsidy": {
+      "eligible": true,
+      "scheme": "Sub-Mission on Agricultural Mechanization (SMAM)",
+      "rate": "40% - 50% Subsidy",
+      "details": "Meets DBT Agriculture Portal mechanization specifications. Eligible for state DBT capital assistance for small & marginal farmers."
+    },
+    "offers": [
+      "Govt Subsidy: 40% - 50% Subsidy claimable under Sub-Mission on Agricultural Mechanization (SMAM)",
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "5 - 7 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "machinery",
+      "horsepower": "25 HP",
+      "powerSource": "3-Cylinder High-Torque Diesel",
+      "driveType": "2-Wheel Drive (2WD)",
+      "workingWidth": "Compact 950 mm Orchard Track",
+      "transmission": "6 Forward + 2 Reverse Sliding Mesh",
+      "warranty": "2 Years Comprehensive OEM Warranty with Doorstep Service"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Gurpreet Singh Dhillon",
+        "location": "Ludhiana, Punjab",
+        "rating": 5,
+        "date": "14 Oct 2026",
+        "verified": true,
+        "cropGrown": "Paddy & Wheat (22 Acres)",
+        "title": "Outstanding pulling power and low diesel consumption",
+        "comment": "Purchased for our rabi season preparation. The machine handles deep clay soil without overheating. The local GROVE dealer delivered it straight to my farm gate within 4 days with complete tool kit and warranty booklet.",
+        "helpfulCount": 38
+      },
+      {
+        "id": "rev-2",
+        "author": "Rameshwar Patil",
+        "location": "Kolhapur, Maharashtra",
+        "rating": 5,
+        "date": "28 Sep 2026",
+        "verified": true,
+        "cropGrown": "Sugarcane & Soybean (14 Acres)",
+        "title": "Worth every rupee with SMAM subsidy support",
+        "comment": "Very solid build quality. The GROVE Kisan desk helped me with the GST invoice and subsidy submission papers. The hydraulics are fast and stable with my heavy rotary tiller.",
+        "helpfulCount": 24
+      },
+      {
+        "id": "rev-3",
+        "author": "K. Venkat Reddy",
+        "location": "Warangal, Telangana",
+        "rating": 4,
+        "date": "05 Sep 2026",
+        "verified": true,
+        "cropGrown": "Cotton & Chillies (10 Acres)",
+        "title": "Excellent performance, operator seat is very comfortable",
+        "comment": "Ran it continuously for 8 hours during tilling. Minimal vibrations and easy gear shifting. Highly recommended for farmers needing dependable equipment.",
+        "helpfulCount": 19
+      }
+    ]
+  },
+  {
+    "id": "ag-03",
+    "name": "Heavy-Duty Rotary Tiller Cultivator 7ft",
+    "slug": "heavy-duty-rotary-tiller-cultivator-7ft",
+    "category": "Farm Machinery",
+    "description": "Multi-speed rotary tiller equipped with 48 boron steel L-blades engineered for superior seedbed preparation and weed eradication.",
+    "image": "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-cultivator.png",
+    "price": 42500,
+    "originalPrice": 49900,
+    "discount": "15% OFF",
+    "savings": 7400,
+    "rating": 4.6,
+    "reviewCount": 84,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "FieldPro Implements",
+    "featured": false,
+    "specifications": {
+      "Working Width": "7 Feet (210 cm)",
+      "Blades": "48 L-Type Boron",
+      "Tractor Power": "40-55 HP"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-cultivator.png",
+      "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523741543316-beb7fc7023d8?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Engineered with genuine heavy-duty components for demanding Indian soil conditions",
+      "Verified high torque power output with optimal fuel economy",
+      "Equipped with standard 3-point linkage compatible with all Indian agricultural implements",
+      "Backed by 2 Years comprehensive OEM warranty and nationwide certified dealer network",
+      "Eligible for State SMAM & Central Agricultural Mechanization Subsidies"
+    ],
+    "seller": {
+      "name": "FieldPro Implements Authorized Regional Distributor",
+      "rating": 4.7,
+      "badge": "Verified Agri Dealer",
+      "location": "Indore, Madhya Pradesh",
+      "fulfillment": "GROVE Assured Logistics",
+      "pincode": "452001",
+      "coordinates": {
+        "lat": 22.7196,
+        "lng": 75.8577
+      }
+    },
+    "warranty": "2 Years Comprehensive OEM Warranty",
+    "subsidy": {
+      "eligible": true,
+      "scheme": "Sub-Mission on Agricultural Mechanization (SMAM)",
+      "rate": "40% - 50% Subsidy",
+      "details": "Meets DBT Agriculture Portal mechanization specifications. Eligible for state DBT capital assistance for small & marginal farmers."
+    },
+    "offers": [
+      "Govt Subsidy: 40% - 50% Subsidy claimable under Sub-Mission on Agricultural Mechanization (SMAM)",
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "5 - 7 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "machinery",
+      "horsepower": "PTO Input 40-55 HP",
+      "powerSource": "Tractor Rear PTO 540 RPM",
+      "driveType": "Gear-Driven Implement",
+      "workingWidth": "7 Feet (2100 mm)",
+      "transmission": "Multi-Speed Heavy Cast Iron Gearbox",
+      "warranty": "2 Years Comprehensive OEM Warranty with Doorstep Service"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Gurpreet Singh Dhillon",
+        "location": "Ludhiana, Punjab",
+        "rating": 5,
+        "date": "14 Oct 2026",
+        "verified": true,
+        "cropGrown": "Paddy & Wheat (22 Acres)",
+        "title": "Outstanding pulling power and low diesel consumption",
+        "comment": "Purchased for our rabi season preparation. The machine handles deep clay soil without overheating. The local GROVE dealer delivered it straight to my farm gate within 4 days with complete tool kit and warranty booklet.",
+        "helpfulCount": 38
+      },
+      {
+        "id": "rev-2",
+        "author": "Rameshwar Patil",
+        "location": "Kolhapur, Maharashtra",
+        "rating": 5,
+        "date": "28 Sep 2026",
+        "verified": true,
+        "cropGrown": "Sugarcane & Soybean (14 Acres)",
+        "title": "Worth every rupee with SMAM subsidy support",
+        "comment": "Very solid build quality. The GROVE Kisan desk helped me with the GST invoice and subsidy submission papers. The hydraulics are fast and stable with my heavy rotary tiller.",
+        "helpfulCount": 24
+      },
+      {
+        "id": "rev-3",
+        "author": "K. Venkat Reddy",
+        "location": "Warangal, Telangana",
+        "rating": 4,
+        "date": "05 Sep 2026",
+        "verified": true,
+        "cropGrown": "Cotton & Chillies (10 Acres)",
+        "title": "Excellent performance, operator seat is very comfortable",
+        "comment": "Ran it continuously for 8 hours during tilling. Minimal vibrations and easy gear shifting. Highly recommended for farmers needing dependable equipment.",
+        "helpfulCount": 19
+      }
+    ]
+  },
+  {
+    "id": "ag-04",
+    "name": "Multi-Crop Walk-Behind Paddy Reaper Harvester",
+    "slug": "multi-crop-walk-behind-paddy-reaper-harvester",
+    "category": "Farm Machinery",
+    "description": "Self-propelled 6 HP diesel reaper harvester for fast cutting and clean windrowing of paddy, wheat, barley, and oats.",
+    "image": "https://images.unsplash.com/photo-1523741543316-beb7fc7023d8?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-tractor.png",
+    "price": 115000,
+    "originalPrice": 128000,
+    "discount": "10% OFF",
+    "savings": 13000,
+    "rating": 4.8,
+    "reviewCount": 51,
+    "stockStatus": "Limited Stock",
+    "inStock": true,
+    "brand": "HarvesterTech",
+    "featured": false,
+    "specifications": {
+      "Engine": "6 HP Diesel",
+      "Cutting Width": "120 cm (4 Feet)",
+      "Speed": "1 Acre / 1.5 Hours"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1523741543316-beb7fc7023d8?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-tractor.png",
+      "https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1523741543316-beb7fc7023d8?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Engineered with genuine heavy-duty components for demanding Indian soil conditions",
+      "Verified 6 HP Diesel power output with optimal fuel economy",
+      "Equipped with standard 3-point linkage compatible with all Indian agricultural implements",
+      "Backed by 2 Years comprehensive OEM warranty and nationwide certified dealer network",
+      "Eligible for State SMAM & Central Agricultural Mechanization Subsidies"
+    ],
+    "seller": {
+      "name": "HarvesterTech Authorized Regional Distributor",
+      "rating": 4.7,
+      "badge": "Verified Agri Dealer",
+      "location": "Indore, Madhya Pradesh",
+      "fulfillment": "GROVE Assured Logistics",
+      "pincode": "452001",
+      "coordinates": {
+        "lat": 22.7196,
+        "lng": 75.8577
+      }
+    },
+    "warranty": "2 Years Comprehensive OEM Warranty",
+    "subsidy": {
+      "eligible": true,
+      "scheme": "Sub-Mission on Agricultural Mechanization (SMAM)",
+      "rate": "40% - 50% Subsidy",
+      "details": "Meets DBT Agriculture Portal mechanization specifications. Eligible for state DBT capital assistance for small & marginal farmers."
+    },
+    "offers": [
+      "Govt Subsidy: 40% - 50% Subsidy claimable under Sub-Mission on Agricultural Mechanization (SMAM)",
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "5 - 7 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "machinery",
+      "horsepower": "6 HP Diesel",
+      "powerSource": "Single-Cylinder 4-Stroke Diesel",
+      "driveType": "Walk-Behind Self-Propelled",
+      "workingWidth": "120 cm (4 Feet Cutter Bar)",
+      "transmission": "2 Forward + 1 Reverse",
+      "warranty": "2 Years Comprehensive OEM Warranty with Doorstep Service"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Gurpreet Singh Dhillon",
+        "location": "Ludhiana, Punjab",
+        "rating": 5,
+        "date": "14 Oct 2026",
+        "verified": true,
+        "cropGrown": "Paddy & Wheat (22 Acres)",
+        "title": "Outstanding pulling power and low diesel consumption",
+        "comment": "Purchased for our rabi season preparation. The machine handles deep clay soil without overheating. The local GROVE dealer delivered it straight to my farm gate within 4 days with complete tool kit and warranty booklet.",
+        "helpfulCount": 38
+      },
+      {
+        "id": "rev-2",
+        "author": "Rameshwar Patil",
+        "location": "Kolhapur, Maharashtra",
+        "rating": 5,
+        "date": "28 Sep 2026",
+        "verified": true,
+        "cropGrown": "Sugarcane & Soybean (14 Acres)",
+        "title": "Worth every rupee with SMAM subsidy support",
+        "comment": "Very solid build quality. The GROVE Kisan desk helped me with the GST invoice and subsidy submission papers. The hydraulics are fast and stable with my heavy rotary tiller.",
+        "helpfulCount": 24
+      },
+      {
+        "id": "rev-3",
+        "author": "K. Venkat Reddy",
+        "location": "Warangal, Telangana",
+        "rating": 4,
+        "date": "05 Sep 2026",
+        "verified": true,
+        "cropGrown": "Cotton & Chillies (10 Acres)",
+        "title": "Excellent performance, operator seat is very comfortable",
+        "comment": "Ran it continuously for 8 hours during tilling. Minimal vibrations and easy gear shifting. Highly recommended for farmers needing dependable equipment.",
+        "helpfulCount": 19
+      }
+    ]
+  },
+  {
+    "id": "ag-05",
+    "name": "High-Yield Hybrid Wheat Seeds PBW-550 (25kg)",
+    "slug": "high-yield-hybrid-wheat-seeds-pbw-550-25kg",
+    "category": "Hybrid Seeds",
+    "description": "Certified disease-resistant high-tillering hybrid wheat seed pack with 98% germination rate and rust tolerance.",
+    "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/card-agri.png",
+    "price": 1850,
+    "originalPrice": 2200,
+    "discount": "16% OFF",
+    "savings": 350,
+    "rating": 4.8,
+    "reviewCount": 178,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "AgriSeeds National",
+    "featured": true,
+    "specifications": {
+      "Weight": "25 kg",
+      "Germination": "98% Certified",
+      "Maturity": "120 - 130 Days"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=600&q=80",
+      "/images/card-agri.png",
+      "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Certified lab germination rate guaranteed at ≥ 98% under standard field conditions",
+      "High-yielding hybrid genetics selected for drought tolerance and disease resilience",
+      "Uniform crop stand and synchronised maturity for effortless harvesting",
+      "Treated with protective organic/fungicide coating for superior seedling vigor",
+      "Packaged in multi-layer moisture-lock barrier packaging for maximum shelf life"
+    ],
+    "seller": {
+      "name": "AgriSeeds National Certified Seed Depot",
+      "rating": 4.8,
+      "badge": "Govt Certified Seedsman",
+      "location": "Karnal, Haryana",
+      "fulfillment": "GROVE Seed Vault Express",
+      "pincode": "132001",
+      "coordinates": {
+        "lat": 29.6857,
+        "lng": 76.9905
+      }
+    },
+    "warranty": "Quality & Purity Guarantee per FCO / Seed Act Standards",
+    "subsidy": null,
+    "offers": [
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "seeds",
+      "cropVariety": "PBW-550 High-Yield Dwarf Wheat",
+      "seedQuantity": "25 kg Bag",
+      "sowingSeason": "Rabi Season (Oct - Dec)",
+      "germinationRate": "≥ 98% Lab Tested Certified",
+      "maturityPeriod": "120 - 130 Days",
+      "shelfLife": "9 Months from packaging date",
+      "treatment": "Treated with Thiram & Carboxin"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Balwinder Singh",
+        "location": "Karnal, Haryana",
+        "rating": 5,
+        "date": "18 Oct 2026",
+        "verified": true,
+        "cropGrown": "Basmati & Wheat (18 Acres)",
+        "title": "98% germination rate confirmed on field",
+        "comment": "Sowed across 12 acres. Emergence was uniform within 5 days of sowing. Seeds were fresh with recent packaging and zero pest damage inside the sealed bag.",
+        "helpfulCount": 42
+      },
+      {
+        "id": "rev-2",
+        "author": "Devendra Patel",
+        "location": "Anand, Gujarat",
+        "rating": 5,
+        "date": "02 Oct 2026",
+        "verified": true,
+        "cropGrown": "Sweet Corn & Fodder (8 Acres)",
+        "title": "High yield potential and disease tolerance",
+        "comment": "Vigorous crop growth with thick stalks that resist lodging during unexpected monsoon winds. Quality matches the certified lab specs.",
+        "helpfulCount": 29
+      },
+      {
+        "id": "rev-3",
+        "author": "Suresh Choudhary",
+        "location": "Kota, Rajasthan",
+        "rating": 4,
+        "date": "12 Sep 2026",
+        "verified": true,
+        "cropGrown": "Mustard & Wheat (15 Acres)",
+        "title": "Clean certified seeds, great packaging",
+        "comment": "Zero foreign weed seeds or broken grains. Seed treatment saved us initial fungicide costs.",
+        "helpfulCount": 15
+      }
+    ]
+  },
+  {
+    "id": "ag-06",
+    "name": "Pioneer Hybrid Sweet Corn Seeds (5kg)",
+    "slug": "pioneer-hybrid-sweet-corn-seeds-5kg",
+    "category": "Hybrid Seeds",
+    "description": "High-sugar, tender yellow kernel hybrid maize seeds with strong stalk strength and uniform ear placement.",
+    "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/card-agri-clean.png",
+    "price": 2400,
+    "originalPrice": 2900,
+    "discount": "17% OFF",
+    "savings": 500,
+    "rating": 4.7,
+    "reviewCount": 94,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "Pioneer Agro",
+    "featured": false,
+    "specifications": {
+      "Weight": "5 kg",
+      "Yield Potential": "25-30 q/acre",
+      "Duration": "85-90 Days"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=600&q=80",
+      "/images/card-agri-clean.png",
+      "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Certified lab germination rate guaranteed at ≥ 98% under standard field conditions",
+      "High-yielding hybrid genetics selected for drought tolerance and disease resilience",
+      "Uniform crop stand and synchronised maturity for effortless harvesting",
+      "Treated with protective organic/fungicide coating for superior seedling vigor",
+      "Packaged in multi-layer moisture-lock barrier packaging for maximum shelf life"
+    ],
+    "seller": {
+      "name": "Pioneer Agro Certified Seed Depot",
+      "rating": 4.8,
+      "badge": "Govt Certified Seedsman",
+      "location": "Karnal, Haryana",
+      "fulfillment": "GROVE Seed Vault Express",
+      "pincode": "132001",
+      "coordinates": {
+        "lat": 29.6857,
+        "lng": 76.9905
+      }
+    },
+    "warranty": "Quality & Purity Guarantee per FCO / Seed Act Standards",
+    "subsidy": null,
+    "offers": [
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "seeds",
+      "cropVariety": "Pioneer P3396 Sweet Corn Hybrid",
+      "seedQuantity": "5 kg Pouch",
+      "sowingSeason": "Kharif / Spring Season",
+      "germinationRate": "≥ 98% Lab Tested Certified",
+      "maturityPeriod": "85 - 90 Days",
+      "shelfLife": "9 Months from packaging date",
+      "treatment": "Fungicide polymer coated seeds"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Balwinder Singh",
+        "location": "Karnal, Haryana",
+        "rating": 5,
+        "date": "18 Oct 2026",
+        "verified": true,
+        "cropGrown": "Basmati & Wheat (18 Acres)",
+        "title": "98% germination rate confirmed on field",
+        "comment": "Sowed across 12 acres. Emergence was uniform within 5 days of sowing. Seeds were fresh with recent packaging and zero pest damage inside the sealed bag.",
+        "helpfulCount": 42
+      },
+      {
+        "id": "rev-2",
+        "author": "Devendra Patel",
+        "location": "Anand, Gujarat",
+        "rating": 5,
+        "date": "02 Oct 2026",
+        "verified": true,
+        "cropGrown": "Sweet Corn & Fodder (8 Acres)",
+        "title": "High yield potential and disease tolerance",
+        "comment": "Vigorous crop growth with thick stalks that resist lodging during unexpected monsoon winds. Quality matches the certified lab specs.",
+        "helpfulCount": 29
+      },
+      {
+        "id": "rev-3",
+        "author": "Suresh Choudhary",
+        "location": "Kota, Rajasthan",
+        "rating": 4,
+        "date": "12 Sep 2026",
+        "verified": true,
+        "cropGrown": "Mustard & Wheat (15 Acres)",
+        "title": "Clean certified seeds, great packaging",
+        "comment": "Zero foreign weed seeds or broken grains. Seed treatment saved us initial fungicide costs.",
+        "helpfulCount": 15
+      }
+    ]
+  },
+  {
+    "id": "ag-07",
+    "name": "JK Hybrid Cotton Gold BG-II Seeds (1kg)",
+    "slug": "jk-hybrid-cotton-gold-bg-ii-seeds-1kg",
+    "category": "Hybrid Seeds",
+    "description": "Bollgard II genetically enhanced hybrid cotton seeds with superior boll retention and tolerance against sucking pests.",
+    "image": "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/card-agri.png",
+    "price": 950,
+    "originalPrice": 1150,
+    "discount": "17% OFF",
+    "savings": 200,
+    "rating": 4.6,
+    "reviewCount": 112,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "JK Agri-Genetics",
+    "featured": false,
+    "specifications": {
+      "Weight": "1 kg (Pouch)",
+      "Staple Length": "29-30 mm",
+      "Maturity": "150-160 Days"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?auto=format&fit=crop&w=600&q=80",
+      "/images/card-agri.png",
+      "https://images.unsplash.com/photo-1500937386664-56d1dfef3854?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Certified lab germination rate guaranteed at ≥ 98% under standard field conditions",
+      "High-yielding hybrid genetics selected for drought tolerance and disease resilience",
+      "Uniform crop stand and synchronised maturity for effortless harvesting",
+      "Treated with protective organic/fungicide coating for superior seedling vigor",
+      "Packaged in multi-layer moisture-lock barrier packaging for maximum shelf life"
+    ],
+    "seller": {
+      "name": "JK Agri-Genetics Certified Seed Depot",
+      "rating": 4.8,
+      "badge": "Govt Certified Seedsman",
+      "location": "Karnal, Haryana",
+      "fulfillment": "GROVE Seed Vault Express",
+      "pincode": "132001",
+      "coordinates": {
+        "lat": 29.6857,
+        "lng": 76.9905
+      }
+    },
+    "warranty": "Quality & Purity Guarantee per FCO / Seed Act Standards",
+    "subsidy": null,
+    "offers": [
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "seeds",
+      "cropVariety": "JK Gold BG-II Bollgard Cotton",
+      "seedQuantity": "1 kg Sealed Pouch",
+      "sowingSeason": "Kharif Season (May - July)",
+      "germinationRate": "≥ 98% Lab Tested Certified",
+      "maturityPeriod": "150 - 160 Days",
+      "shelfLife": "9 Months from packaging date",
+      "treatment": "Fungicide polymer coated seeds"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Balwinder Singh",
+        "location": "Karnal, Haryana",
+        "rating": 5,
+        "date": "18 Oct 2026",
+        "verified": true,
+        "cropGrown": "Basmati & Wheat (18 Acres)",
+        "title": "98% germination rate confirmed on field",
+        "comment": "Sowed across 12 acres. Emergence was uniform within 5 days of sowing. Seeds were fresh with recent packaging and zero pest damage inside the sealed bag.",
+        "helpfulCount": 42
+      },
+      {
+        "id": "rev-2",
+        "author": "Devendra Patel",
+        "location": "Anand, Gujarat",
+        "rating": 5,
+        "date": "02 Oct 2026",
+        "verified": true,
+        "cropGrown": "Sweet Corn & Fodder (8 Acres)",
+        "title": "High yield potential and disease tolerance",
+        "comment": "Vigorous crop growth with thick stalks that resist lodging during unexpected monsoon winds. Quality matches the certified lab specs.",
+        "helpfulCount": 29
+      },
+      {
+        "id": "rev-3",
+        "author": "Suresh Choudhary",
+        "location": "Kota, Rajasthan",
+        "rating": 4,
+        "date": "12 Sep 2026",
+        "verified": true,
+        "cropGrown": "Mustard & Wheat (15 Acres)",
+        "title": "Clean certified seeds, great packaging",
+        "comment": "Zero foreign weed seeds or broken grains. Seed treatment saved us initial fungicide costs.",
+        "helpfulCount": 15
+      }
+    ]
+  },
+  {
+    "id": "ag-08",
+    "name": "Organic Bio-Fertilizer Vermicompost (50kg)",
+    "slug": "organic-bio-fertilizer-vermicompost-50kg",
+    "category": "Fertilizers & Soil Nutrition",
+    "description": "100% pure organic enriched earthworm humus compost rich in active micro-nutrients, humic acid, and soil beneficial bacteria.",
+    "image": "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/card-agri-clean.png",
+    "price": 750,
+    "originalPrice": 950,
+    "discount": "21% OFF",
+    "savings": 200,
+    "rating": 4.9,
+    "reviewCount": 215,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "BioSoil Organic",
+    "featured": true,
+    "specifications": {
+      "Net Weight": "50 kg Bag",
+      "Organic Carbon": "> 18%",
+      "Certification": "FCO Organic Certified"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?auto=format&fit=crop&w=600&q=80",
+      "/images/card-agri-clean.png",
+      "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Formulated according to strict Fertilizer Control Order (FCO) quality standards",
+      "Promotes robust microbial biodiversity and rapid root development",
+      "100% water-soluble and quick-absorbing formula for rapid nutrient uptake",
+      "Restores depleted soil organic carbon and micro-nutrient balance",
+      "Suitable for basal soil application, drip fertigation, and foliar spray programs"
+    ],
+    "seller": {
+      "name": "BioSoil Organic Distribution Hub",
+      "rating": 4.8,
+      "badge": "FCO Licensed Distributor",
+      "location": "Ahmedabad, Gujarat",
+      "fulfillment": "GROVE Heavy Freight Depot",
+      "pincode": "380001",
+      "coordinates": {
+        "lat": 23.0225,
+        "lng": 72.5714
+      }
+    },
+    "warranty": "Quality & Purity Guarantee per FCO / Seed Act Standards",
+    "subsidy": null,
+    "offers": [
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "fertilizer",
+      "composition": "Pure Earthworm Castings, 18.5% Organic Carbon, NPK 1.6:1.2:1.1",
+      "netWeight": "50 kg HDPE Bag",
+      "form": "Rich Granular Humus",
+      "applicationMethod": "Soil Broadcast / Basal Dosing during plowing",
+      "suitableCrops": "Wheat, Paddy, Sugarcane, Cotton, Fruits, Vegetables & Spices",
+      "organicCertification": "FCO 1985 & NPOP Certified 100% Organic"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Anil Kumar Sharma",
+        "location": "Meerut, Uttar Pradesh",
+        "rating": 5,
+        "date": "20 Oct 2026",
+        "verified": true,
+        "cropGrown": "Sugarcane & Vegetables (12 Acres)",
+        "title": "Visible soil fertility improvement within 3 weeks",
+        "comment": "Applied during basal tilling. Earthworm activity has noticeably increased and soil water holding capacity improved during the dry spells.",
+        "helpfulCount": 31
+      },
+      {
+        "id": "rev-2",
+        "author": "M. Senthil Nathan",
+        "location": "Salem, Tamil Nadu",
+        "rating": 5,
+        "date": "04 Oct 2026",
+        "verified": true,
+        "cropGrown": "Banana & Turmeric (7 Acres)",
+        "title": "100% soluble in drip fertigation without nozzle clogging",
+        "comment": "Dissolves instantly in our fertigation venturi tank. Foliage color turned deep lush green within 6 days of application.",
+        "helpfulCount": 27
+      },
+      {
+        "id": "rev-3",
+        "author": "Jagdish Chandra",
+        "location": "Indore, Madhya Pradesh",
+        "rating": 4,
+        "date": "16 Sep 2026",
+        "verified": true,
+        "cropGrown": "Soybean & Gram (16 Acres)",
+        "title": "Authentic organic certified input",
+        "comment": "FCO lab certificate batch number printed clearly on the bag. Fast delivery by freight truck right to our village godown.",
+        "helpfulCount": 14
+      }
+    ]
+  },
+  {
+    "id": "ag-09",
+    "name": "Water-Soluble NPK 19-19-19 Fertilizer (25kg)",
+    "slug": "water-soluble-npk-19-19-19-fertilizer-25kg",
+    "category": "Fertilizers & Soil Nutrition",
+    "description": "Balanced 100% water-soluble foliar and drip fertilizer that promotes rapid vegetative growth and root expansion.",
+    "image": "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/card-agri-clean.png",
+    "price": 2600,
+    "originalPrice": 3100,
+    "discount": "16% OFF",
+    "savings": 500,
+    "rating": 4.8,
+    "reviewCount": 134,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "IFFCO Speciality",
+    "featured": false,
+    "specifications": {
+      "Composition": "N 19% : P 19% : K 19%",
+      "Solubility": "100% Water Soluble",
+      "Weight": "25 kg"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328d?auto=format&fit=crop&w=600&q=80",
+      "/images/card-agri-clean.png",
+      "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Formulated according to strict Fertilizer Control Order (FCO) quality standards",
+      "Promotes robust microbial biodiversity and rapid root development",
+      "100% water-soluble and quick-absorbing formula for rapid nutrient uptake",
+      "Restores depleted soil organic carbon and micro-nutrient balance",
+      "Suitable for basal soil application, drip fertigation, and foliar spray programs"
+    ],
+    "seller": {
+      "name": "IFFCO Speciality Distribution Hub",
+      "rating": 4.8,
+      "badge": "FCO Licensed Distributor",
+      "location": "Ahmedabad, Gujarat",
+      "fulfillment": "GROVE Heavy Freight Depot",
+      "pincode": "380001",
+      "coordinates": {
+        "lat": 23.0225,
+        "lng": 72.5714
+      }
+    },
+    "warranty": "Quality & Purity Guarantee per FCO / Seed Act Standards",
+    "subsidy": null,
+    "offers": [
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "fertilizer",
+      "composition": "N 19% : P 19% : K 19% (100% Water Soluble Grade)",
+      "netWeight": "25 kg Poly-Lined Bag",
+      "form": "Free-Flowing Micro-Crystalline",
+      "applicationMethod": "Drip Fertigation & Foliar Spray",
+      "suitableCrops": "Wheat, Paddy, Sugarcane, Cotton, Fruits, Vegetables & Spices",
+      "organicCertification": "FCO Grade Fertilizer"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Anil Kumar Sharma",
+        "location": "Meerut, Uttar Pradesh",
+        "rating": 5,
+        "date": "20 Oct 2026",
+        "verified": true,
+        "cropGrown": "Sugarcane & Vegetables (12 Acres)",
+        "title": "Visible soil fertility improvement within 3 weeks",
+        "comment": "Applied during basal tilling. Earthworm activity has noticeably increased and soil water holding capacity improved during the dry spells.",
+        "helpfulCount": 31
+      },
+      {
+        "id": "rev-2",
+        "author": "M. Senthil Nathan",
+        "location": "Salem, Tamil Nadu",
+        "rating": 5,
+        "date": "04 Oct 2026",
+        "verified": true,
+        "cropGrown": "Banana & Turmeric (7 Acres)",
+        "title": "100% soluble in drip fertigation without nozzle clogging",
+        "comment": "Dissolves instantly in our fertigation venturi tank. Foliage color turned deep lush green within 6 days of application.",
+        "helpfulCount": 27
+      },
+      {
+        "id": "rev-3",
+        "author": "Jagdish Chandra",
+        "location": "Indore, Madhya Pradesh",
+        "rating": 4,
+        "date": "16 Sep 2026",
+        "verified": true,
+        "cropGrown": "Soybean & Gram (16 Acres)",
+        "title": "Authentic organic certified input",
+        "comment": "FCO lab certificate batch number printed clearly on the bag. Fast delivery by freight truck right to our village godown.",
+        "helpfulCount": 14
+      }
+    ]
+  },
+  {
+    "id": "ag-10",
+    "name": "Humic Acid 98% Soil Conditioner (5kg)",
+    "slug": "humic-acid-98-soil-conditioner-5kg",
+    "category": "Fertilizers & Soil Nutrition",
+    "description": "High-potency potassium humate granules that improve soil aeration, water retention, and fertilizer uptake efficiency.",
+    "image": "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/card-agri-clean.png",
+    "price": 1450,
+    "originalPrice": 1800,
+    "discount": "19% OFF",
+    "savings": 350,
+    "rating": 4.7,
+    "reviewCount": 78,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "NutriRoot Labs",
+    "featured": false,
+    "specifications": {
+      "Humic Acid": "98% Pure",
+      "Fulvic Acid": "15%",
+      "Weight": "5 kg Tub"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?auto=format&fit=crop&w=600&q=80",
+      "/images/card-agri-clean.png",
+      "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1628352081506-83c43123ed6d?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Formulated according to strict Fertilizer Control Order (FCO) quality standards",
+      "Promotes robust microbial biodiversity and rapid root development",
+      "100% water-soluble and quick-absorbing formula for rapid nutrient uptake",
+      "Restores depleted soil organic carbon and micro-nutrient balance",
+      "Suitable for basal soil application, drip fertigation, and foliar spray programs"
+    ],
+    "seller": {
+      "name": "NutriRoot Labs Distribution Hub",
+      "rating": 4.8,
+      "badge": "FCO Licensed Distributor",
+      "location": "Ahmedabad, Gujarat",
+      "fulfillment": "GROVE Heavy Freight Depot",
+      "pincode": "380001",
+      "coordinates": {
+        "lat": 23.0225,
+        "lng": 72.5714
+      }
+    },
+    "warranty": "Quality & Purity Guarantee per FCO / Seed Act Standards",
+    "subsidy": null,
+    "offers": [
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "fertilizer",
+      "composition": "98% Active Potassium Humate + 15% Fulvic Acids",
+      "netWeight": "5 kg Air-Tight Tub",
+      "form": "Glistening Black Flakes",
+      "applicationMethod": "Drip Line, Foliar Spray or Soil Drenching",
+      "suitableCrops": "Wheat, Paddy, Sugarcane, Cotton, Fruits, Vegetables & Spices",
+      "organicCertification": "Certified Bio-Stimulant"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Anil Kumar Sharma",
+        "location": "Meerut, Uttar Pradesh",
+        "rating": 5,
+        "date": "20 Oct 2026",
+        "verified": true,
+        "cropGrown": "Sugarcane & Vegetables (12 Acres)",
+        "title": "Visible soil fertility improvement within 3 weeks",
+        "comment": "Applied during basal tilling. Earthworm activity has noticeably increased and soil water holding capacity improved during the dry spells.",
+        "helpfulCount": 31
+      },
+      {
+        "id": "rev-2",
+        "author": "M. Senthil Nathan",
+        "location": "Salem, Tamil Nadu",
+        "rating": 5,
+        "date": "04 Oct 2026",
+        "verified": true,
+        "cropGrown": "Banana & Turmeric (7 Acres)",
+        "title": "100% soluble in drip fertigation without nozzle clogging",
+        "comment": "Dissolves instantly in our fertigation venturi tank. Foliage color turned deep lush green within 6 days of application.",
+        "helpfulCount": 27
+      },
+      {
+        "id": "rev-3",
+        "author": "Jagdish Chandra",
+        "location": "Indore, Madhya Pradesh",
+        "rating": 4,
+        "date": "16 Sep 2026",
+        "verified": true,
+        "cropGrown": "Soybean & Gram (16 Acres)",
+        "title": "Authentic organic certified input",
+        "comment": "FCO lab certificate batch number printed clearly on the bag. Fast delivery by freight truck right to our village godown.",
+        "helpfulCount": 14
+      }
+    ]
+  },
+  {
+    "id": "ag-11",
+    "name": "Knapsack Dual-Motor Battery Sprayer (16L)",
+    "slug": "knapsack-dual-motor-battery-sprayer-16l",
+    "category": "Crop Protection",
+    "description": "Rechargeable 16-litre knapsack sprayer with 12V 12Ah lithium battery, telescopic stainless lance, and 4 brass mist nozzles.",
+    "image": "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-sprayer.png",
+    "price": 2499,
+    "originalPrice": 3299,
+    "discount": "24% OFF",
+    "savings": 800,
+    "rating": 4.8,
+    "reviewCount": 142,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "AgroKisan Tools",
+    "featured": true,
+    "specifications": {
+      "Capacity": "16 Litres",
+      "Battery": "12V 12Ah Lithium",
+      "Working Pressure": "0.45 MPa"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-sprayer.png",
+      "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "High-efficiency discharge delivers micro-droplets that coat upper and lower foliage evenly",
+      "Durable corrosion-proof chemical tank engineered for long working seasons",
+      "Ergonomic dual-shoulder padded harness reduces operator fatigue during long field hours",
+      "Complete with adjustable brass nozzles, telescopic lance, and spare washer kit",
+      "Tested and certified for safe pest management on cotton, paddy, vegetables & orchards"
+    ],
+    "seller": {
+      "name": "AgroKisan Tools Authorized Regional Distributor",
+      "rating": 4.7,
+      "badge": "Verified Agri Dealer",
+      "location": "Indore, Madhya Pradesh",
+      "fulfillment": "GROVE Assured Logistics",
+      "pincode": "452001",
+      "coordinates": {
+        "lat": 22.7196,
+        "lng": 75.8577
+      }
+    },
+    "warranty": "1 Year Motor & Pump Warranty",
+    "subsidy": null,
+    "offers": [
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "crop-protection",
+      "activeIngredient": "12V 12Ah Dual-Motor Pressure Pump",
+      "netVolume": "16 Litres High-Density Poly Tank",
+      "targetPests": "Aphids, Whiteflies, Thrips, Caterpillars, Stem Borers & Mites",
+      "dosage": "Standard tank mix",
+      "applicationType": "Foliar Spray & Crop Canopy Drenching",
+      "safetyPrecaution": "Use protective face mask and gloves during application"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Babu Rao Deshmukh",
+        "location": "Amravati, Maharashtra",
+        "rating": 5,
+        "date": "22 Oct 2026",
+        "verified": true,
+        "cropGrown": "Cotton & Citrus (10 Acres)",
+        "title": "Powerful pressure and long battery endurance",
+        "comment": "Sprayed 18 tanks on a single full charge. The dual-motor pressure reaches the top canopy of citrus trees easily. Very sturdy brass lance.",
+        "helpfulCount": 35
+      },
+      {
+        "id": "rev-2",
+        "author": "Manish Verma",
+        "location": "Bhatinda, Punjab",
+        "rating": 5,
+        "date": "09 Oct 2026",
+        "verified": true,
+        "cropGrown": "Cotton & Mustard (15 Acres)",
+        "title": "Effective whitefly and sucking pest control",
+        "comment": "Natural neem formulation with 10,000 PPM azadirachtin had immediate repellent effect without harming friendly bees and predators.",
+        "helpfulCount": 22
+      },
+      {
+        "id": "rev-3",
+        "author": "Pratap Singh",
+        "location": "Ganganagar, Rajasthan",
+        "rating": 4,
+        "date": "25 Sep 2026",
+        "verified": true,
+        "cropGrown": "Kinnow & Wheat (20 Acres)",
+        "title": "Reliable equipment for quick field spraying",
+        "comment": "Saved over 3 hours per acre compared to our old manual pump. Back padding is thick and comfortable.",
+        "helpfulCount": 16
+      }
+    ]
+  },
+  {
+    "id": "ag-12",
+    "name": "Bio-Neem Organic Pest Repellent 10000 PPM (5L)",
+    "slug": "bio-neem-organic-pest-repellent-10000-ppm-5l",
+    "category": "Crop Protection",
+    "description": "Cold-pressed pure azadirachtin neem oil emulsion for effective botanical control of whiteflies, aphids, and caterpillars.",
+    "image": "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/card-agri.png",
+    "price": 1850,
+    "originalPrice": 2300,
+    "discount": "20% OFF",
+    "savings": 450,
+    "rating": 4.7,
+    "reviewCount": 96,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "NeemCare Organics",
+    "featured": false,
+    "specifications": {
+      "Volume": "5 Litres",
+      "PPM": "10,000 Azadirachtin",
+      "Dilution": "3-5 ml per Litre"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1615811361523-6bd03d7748e7?auto=format&fit=crop&w=600&q=80",
+      "/images/card-agri.png",
+      "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "High-efficiency discharge delivers micro-droplets that coat upper and lower foliage evenly",
+      "Durable corrosion-proof chemical tank engineered for long working seasons",
+      "Ergonomic dual-shoulder padded harness reduces operator fatigue during long field hours",
+      "Complete with adjustable brass nozzles, telescopic lance, and spare washer kit",
+      "Tested and certified for safe pest management on cotton, paddy, vegetables & orchards"
+    ],
+    "seller": {
+      "name": "NeemCare Organics Authorized Regional Distributor",
+      "rating": 4.7,
+      "badge": "Verified Agri Dealer",
+      "location": "Indore, Madhya Pradesh",
+      "fulfillment": "GROVE Assured Logistics",
+      "pincode": "452001",
+      "coordinates": {
+        "lat": 22.7196,
+        "lng": 75.8577
+      }
+    },
+    "warranty": "1 Year Motor & Pump Warranty",
+    "subsidy": null,
+    "offers": [
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "crop-protection",
+      "activeIngredient": "Azadirachtin 10,000 PPM (1.0% EC)",
+      "netVolume": "5 Litres High-Barrier Can",
+      "targetPests": "Aphids, Whiteflies, Thrips, Caterpillars, Stem Borers & Mites",
+      "dosage": "3 - 5 ml per Litre of water",
+      "applicationType": "Foliar Spray & Crop Canopy Drenching",
+      "safetyPrecaution": "Use protective face mask and gloves during application"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Babu Rao Deshmukh",
+        "location": "Amravati, Maharashtra",
+        "rating": 5,
+        "date": "22 Oct 2026",
+        "verified": true,
+        "cropGrown": "Cotton & Citrus (10 Acres)",
+        "title": "Powerful pressure and long battery endurance",
+        "comment": "Sprayed 18 tanks on a single full charge. The dual-motor pressure reaches the top canopy of citrus trees easily. Very sturdy brass lance.",
+        "helpfulCount": 35
+      },
+      {
+        "id": "rev-2",
+        "author": "Manish Verma",
+        "location": "Bhatinda, Punjab",
+        "rating": 5,
+        "date": "09 Oct 2026",
+        "verified": true,
+        "cropGrown": "Cotton & Mustard (15 Acres)",
+        "title": "Effective whitefly and sucking pest control",
+        "comment": "Natural neem formulation with 10,000 PPM azadirachtin had immediate repellent effect without harming friendly bees and predators.",
+        "helpfulCount": 22
+      },
+      {
+        "id": "rev-3",
+        "author": "Pratap Singh",
+        "location": "Ganganagar, Rajasthan",
+        "rating": 4,
+        "date": "25 Sep 2026",
+        "verified": true,
+        "cropGrown": "Kinnow & Wheat (20 Acres)",
+        "title": "Reliable equipment for quick field spraying",
+        "comment": "Saved over 3 hours per acre compared to our old manual pump. Back padding is thick and comfortable.",
+        "helpfulCount": 16
+      }
+    ]
+  },
+  {
+    "id": "ag-13",
+    "name": "High-Pressure Petrol Power Sprayer (25L)",
+    "slug": "high-pressure-petrol-power-sprayer-25l",
+    "category": "Crop Protection",
+    "description": "Powerful 26cc 2-stroke petrol engine backpack sprayer delivering heavy mist reach up to 10 metres in high orchard canopies.",
+    "image": "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-sprayer.png",
+    "price": 7499,
+    "originalPrice": 9200,
+    "discount": "18% OFF",
+    "savings": 1701,
+    "rating": 4.5,
+    "reviewCount": 67,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "PowerAgri",
+    "featured": false,
+    "specifications": {
+      "Engine": "26cc 2-Stroke",
+      "Tank": "25 Litres",
+      "Discharge": "8 L/min"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-sprayer.png",
+      "https://images.unsplash.com/photo-1592982537447-7440770cbfc9?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "High-efficiency discharge delivers micro-droplets that coat upper and lower foliage evenly",
+      "Durable corrosion-proof chemical tank engineered for long working seasons",
+      "Ergonomic dual-shoulder padded harness reduces operator fatigue during long field hours",
+      "Complete with adjustable brass nozzles, telescopic lance, and spare washer kit",
+      "Tested and certified for safe pest management on cotton, paddy, vegetables & orchards"
+    ],
+    "seller": {
+      "name": "PowerAgri Authorized Regional Distributor",
+      "rating": 4.7,
+      "badge": "Verified Agri Dealer",
+      "location": "Indore, Madhya Pradesh",
+      "fulfillment": "GROVE Assured Logistics",
+      "pincode": "452001",
+      "coordinates": {
+        "lat": 22.7196,
+        "lng": 75.8577
+      }
+    },
+    "warranty": "1 Year Motor & Pump Warranty",
+    "subsidy": null,
+    "offers": [
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "crop-protection",
+      "activeIngredient": "26cc 2-Stroke Petrol Engine with Brass Plunger",
+      "netVolume": "25 Litres Chemical Resistant Tank",
+      "targetPests": "Aphids, Whiteflies, Thrips, Caterpillars, Stem Borers & Mites",
+      "dosage": "High pressure mist at 7-8 L/min discharge",
+      "applicationType": "Foliar Spray & Crop Canopy Drenching",
+      "safetyPrecaution": "Use protective face mask and gloves during application"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Babu Rao Deshmukh",
+        "location": "Amravati, Maharashtra",
+        "rating": 5,
+        "date": "22 Oct 2026",
+        "verified": true,
+        "cropGrown": "Cotton & Citrus (10 Acres)",
+        "title": "Powerful pressure and long battery endurance",
+        "comment": "Sprayed 18 tanks on a single full charge. The dual-motor pressure reaches the top canopy of citrus trees easily. Very sturdy brass lance.",
+        "helpfulCount": 35
+      },
+      {
+        "id": "rev-2",
+        "author": "Manish Verma",
+        "location": "Bhatinda, Punjab",
+        "rating": 5,
+        "date": "09 Oct 2026",
+        "verified": true,
+        "cropGrown": "Cotton & Mustard (15 Acres)",
+        "title": "Effective whitefly and sucking pest control",
+        "comment": "Natural neem formulation with 10,000 PPM azadirachtin had immediate repellent effect without harming friendly bees and predators.",
+        "helpfulCount": 22
+      },
+      {
+        "id": "rev-3",
+        "author": "Pratap Singh",
+        "location": "Ganganagar, Rajasthan",
+        "rating": 4,
+        "date": "25 Sep 2026",
+        "verified": true,
+        "cropGrown": "Kinnow & Wheat (20 Acres)",
+        "title": "Reliable equipment for quick field spraying",
+        "comment": "Saved over 3 hours per acre compared to our old manual pump. Back padding is thick and comfortable.",
+        "helpfulCount": 16
+      }
+    ]
+  },
+  {
+    "id": "ag-14",
+    "name": "Commercial Drip Irrigation Master Kit (1 Acre)",
+    "slug": "commercial-drip-irrigation-master-kit-1-acre",
+    "category": "Irrigation & Drip Systems",
+    "description": "Turnkey drip irrigation system with pressure-compensating drippers, disc filter, connector valves, and UV-stabilized mainline tubing.",
+    "image": "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-drip.png",
+    "price": 3850,
+    "originalPrice": 4600,
+    "discount": "16% OFF",
+    "savings": 750,
+    "rating": 4.6,
+    "reviewCount": 81,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "Jain Irrigation",
+    "featured": true,
+    "specifications": {
+      "Coverage": "1 Acre / 100M",
+      "Tubing": "16mm UV LDPE",
+      "Spacing": "40 cm Emitters"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-drip.png",
+      "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1527842891421-42eec6e703ea?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Saves up to 50-60% irrigation water while delivering uniform moisture directly to roots",
+      "Manufactured from 100% virgin UV-stabilized polymer resistant to agricultural chemicals",
+      "Clog-resistant labyrinth flow path emitters ensure uniform discharge even on uneven terrain",
+      "Complete DIY master installation set with screen filter and heavy-duty fittings",
+      "Substantially lowers weed growth and fertilizer leaching compared to flood irrigation"
+    ],
+    "seller": {
+      "name": "Jain Irrigation Authorized Regional Distributor",
+      "rating": 4.7,
+      "badge": "Verified Agri Dealer",
+      "location": "Indore, Madhya Pradesh",
+      "fulfillment": "GROVE Assured Logistics",
+      "pincode": "452001",
+      "coordinates": {
+        "lat": 22.7196,
+        "lng": 75.8577
+      }
+    },
+    "warranty": "3 Years UV Protection Warranty",
+    "subsidy": {
+      "eligible": true,
+      "scheme": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY - Per Drop More Crop)",
+      "rate": "Up to 45% Subsidy",
+      "details": "Meets BIS drip irrigation standards for PMKSY micro-irrigation subsidy subsidy claim."
+    },
+    "offers": [
+      "Govt Subsidy: Up to 45% Subsidy claimable under Pradhan Mantri Krishi Sinchayee Yojana (PMKSY - Per Drop More Crop)",
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "irrigation",
+      "coverageArea": "1 Acre (4,000 sq. meters)",
+      "pipeLengthDiameter": "16 mm UV LDPE Lateral (1000m roll)",
+      "flowRate": "2.0 Litres/Hour per emitter",
+      "operatingPressure": "1.2 - 2.5 kg/cm² (bar)",
+      "includedAccessories": "Screen Filter, Flush Valves, 25 Joiners, 50 End Caps, Punch Tool"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Narayana Swamy",
+        "location": "Kolar, Karnataka",
+        "rating": 5,
+        "date": "19 Oct 2026",
+        "verified": true,
+        "cropGrown": "Tomato & Capsicum (4 Acres Polyhouse)",
+        "title": "Uniform water distribution across all 100-meter rows",
+        "comment": "Installed the complete 1-acre kit in two days. Emitter discharge is identical at the header and the tail end. Saved over 45% water compared to furrow irrigation.",
+        "helpfulCount": 40
+      },
+      {
+        "id": "rev-2",
+        "author": "Virendra Jadeja",
+        "location": "Rajkot, Gujarat",
+        "rating": 5,
+        "date": "01 Oct 2026",
+        "verified": true,
+        "cropGrown": "Groundnut & Cumin (12 Acres)",
+        "title": "High-grade virgin UV plastic tubing",
+        "comment": "Tubing did not crack or turn brittle even in harsh Saurashtra sun. Connectors fit snugly without Teflon tape leaks.",
+        "helpfulCount": 26
+      },
+      {
+        "id": "rev-3",
+        "author": "Bhupender Yadav",
+        "location": "Alwar, Rajasthan",
+        "rating": 4,
+        "date": "14 Sep 2026",
+        "verified": true,
+        "cropGrown": "Onion & Garlic (6 Acres)",
+        "title": "Comprehensive kit with all necessary fittings",
+        "comment": "Includes screen filter, joiners, and flush valves. Everything mentioned on the package was in the crate.",
+        "helpfulCount": 18
+      }
+    ]
+  },
+  {
+    "id": "ag-15",
+    "name": "Micro Sprinkler Irrigation Set (50 Nozzles)",
+    "slug": "micro-sprinkler-irrigation-set-50-nozzles",
+    "category": "Irrigation & Drip Systems",
+    "description": "360-degree rotating micro sprinkler kit with stand stakes and riser pipes, ensuring uniform precipitation for greenhouses.",
+    "image": "https://images.unsplash.com/photo-1527842891421-42eec6e703ea?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-drip.png",
+    "price": 2490,
+    "originalPrice": 3200,
+    "discount": "22% OFF",
+    "savings": 710,
+    "rating": 4.7,
+    "reviewCount": 43,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "AquaSpray Agro",
+    "featured": false,
+    "specifications": {
+      "Nozzles": "50 Heads",
+      "Radius": "3.5 - 4.5 Meters",
+      "Discharge": "40-60 L/hr"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1527842891421-42eec6e703ea?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-drip.png",
+      "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1527842891421-42eec6e703ea?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Saves up to 50-60% irrigation water while delivering uniform moisture directly to roots",
+      "Manufactured from 100% virgin UV-stabilized polymer resistant to agricultural chemicals",
+      "Clog-resistant labyrinth flow path emitters ensure uniform discharge even on uneven terrain",
+      "Complete DIY master installation set with screen filter and heavy-duty fittings",
+      "Substantially lowers weed growth and fertilizer leaching compared to flood irrigation"
+    ],
+    "seller": {
+      "name": "AquaSpray Agro Authorized Regional Distributor",
+      "rating": 4.7,
+      "badge": "Verified Agri Dealer",
+      "location": "Indore, Madhya Pradesh",
+      "fulfillment": "GROVE Assured Logistics",
+      "pincode": "452001",
+      "coordinates": {
+        "lat": 22.7196,
+        "lng": 75.8577
+      }
+    },
+    "warranty": "3 Years UV Protection Warranty",
+    "subsidy": {
+      "eligible": true,
+      "scheme": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY - Per Drop More Crop)",
+      "rate": "Up to 45% Subsidy",
+      "details": "Meets BIS drip irrigation standards for PMKSY micro-irrigation subsidy subsidy claim."
+    },
+    "offers": [
+      "Govt Subsidy: Up to 45% Subsidy claimable under Pradhan Mantri Krishi Sinchayee Yojana (PMKSY - Per Drop More Crop)",
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "irrigation",
+      "coverageArea": "0.5 Acre Orchard / Nursery",
+      "pipeLengthDiameter": "32 mm Sub-main + 16 mm Micro-tubes",
+      "flowRate": "40 - 60 Litres/Hour per sprinkler head",
+      "operatingPressure": "1.2 - 2.5 kg/cm² (bar)",
+      "includedAccessories": "50 Micro-Sprinklers with ground support stakes, tubing & connectors"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Narayana Swamy",
+        "location": "Kolar, Karnataka",
+        "rating": 5,
+        "date": "19 Oct 2026",
+        "verified": true,
+        "cropGrown": "Tomato & Capsicum (4 Acres Polyhouse)",
+        "title": "Uniform water distribution across all 100-meter rows",
+        "comment": "Installed the complete 1-acre kit in two days. Emitter discharge is identical at the header and the tail end. Saved over 45% water compared to furrow irrigation.",
+        "helpfulCount": 40
+      },
+      {
+        "id": "rev-2",
+        "author": "Virendra Jadeja",
+        "location": "Rajkot, Gujarat",
+        "rating": 5,
+        "date": "01 Oct 2026",
+        "verified": true,
+        "cropGrown": "Groundnut & Cumin (12 Acres)",
+        "title": "High-grade virgin UV plastic tubing",
+        "comment": "Tubing did not crack or turn brittle even in harsh Saurashtra sun. Connectors fit snugly without Teflon tape leaks.",
+        "helpfulCount": 26
+      },
+      {
+        "id": "rev-3",
+        "author": "Bhupender Yadav",
+        "location": "Alwar, Rajasthan",
+        "rating": 4,
+        "date": "14 Sep 2026",
+        "verified": true,
+        "cropGrown": "Onion & Garlic (6 Acres)",
+        "title": "Comprehensive kit with all necessary fittings",
+        "comment": "Includes screen filter, joiners, and flush valves. Everything mentioned on the package was in the crate.",
+        "helpfulCount": 18
+      }
+    ]
+  },
+  {
+    "id": "ag-16",
+    "name": "Venturi Fertilizer Injector Unit 2-Inch",
+    "slug": "venturi-fertilizer-injector-unit-2-inch",
+    "category": "Irrigation & Drip Systems",
+    "description": "High-efficiency differential pressure venturi fertigation assembly with flow control valve and suction tube filter.",
+    "image": "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-drip.png",
+    "price": 1890,
+    "originalPrice": 2400,
+    "discount": "21% OFF",
+    "savings": 510,
+    "rating": 4.5,
+    "reviewCount": 38,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "Jain Irrigation",
+    "featured": false,
+    "specifications": {
+      "Inlet/Outlet": "2 Inch BSP Thread",
+      "Suction Flow": "300 - 1200 L/hr",
+      "Material": "Polypropylene Copolymer"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-drip.png",
+      "https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1527842891421-42eec6e703ea?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "Saves up to 50-60% irrigation water while delivering uniform moisture directly to roots",
+      "Manufactured from 100% virgin UV-stabilized polymer resistant to agricultural chemicals",
+      "Clog-resistant labyrinth flow path emitters ensure uniform discharge even on uneven terrain",
+      "Complete DIY master installation set with screen filter and heavy-duty fittings",
+      "Substantially lowers weed growth and fertilizer leaching compared to flood irrigation"
+    ],
+    "seller": {
+      "name": "Jain Irrigation Authorized Regional Distributor",
+      "rating": 4.7,
+      "badge": "Verified Agri Dealer",
+      "location": "Indore, Madhya Pradesh",
+      "fulfillment": "GROVE Assured Logistics",
+      "pincode": "452001",
+      "coordinates": {
+        "lat": 22.7196,
+        "lng": 75.8577
+      }
+    },
+    "warranty": "3 Years UV Protection Warranty",
+    "subsidy": {
+      "eligible": true,
+      "scheme": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY - Per Drop More Crop)",
+      "rate": "Up to 45% Subsidy",
+      "details": "Meets BIS drip irrigation standards for PMKSY micro-irrigation subsidy subsidy claim."
+    },
+    "offers": [
+      "Govt Subsidy: Up to 45% Subsidy claimable under Pradhan Mantri Krishi Sinchayee Yojana (PMKSY - Per Drop More Crop)",
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "3 - 5 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "irrigation",
+      "coverageArea": "Mainline Fertigation for up to 5 Acres",
+      "pipeLengthDiameter": "2-Inch BSP Threaded Flange Coupling",
+      "flowRate": "Suction capacity 300 - 1200 Litres/Hour",
+      "operatingPressure": "1.2 - 2.5 kg/cm² (bar)",
+      "includedAccessories": "Suction tube, check valve, flow regulating knob & rotameter"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Narayana Swamy",
+        "location": "Kolar, Karnataka",
+        "rating": 5,
+        "date": "19 Oct 2026",
+        "verified": true,
+        "cropGrown": "Tomato & Capsicum (4 Acres Polyhouse)",
+        "title": "Uniform water distribution across all 100-meter rows",
+        "comment": "Installed the complete 1-acre kit in two days. Emitter discharge is identical at the header and the tail end. Saved over 45% water compared to furrow irrigation.",
+        "helpfulCount": 40
+      },
+      {
+        "id": "rev-2",
+        "author": "Virendra Jadeja",
+        "location": "Rajkot, Gujarat",
+        "rating": 5,
+        "date": "01 Oct 2026",
+        "verified": true,
+        "cropGrown": "Groundnut & Cumin (12 Acres)",
+        "title": "High-grade virgin UV plastic tubing",
+        "comment": "Tubing did not crack or turn brittle even in harsh Saurashtra sun. Connectors fit snugly without Teflon tape leaks.",
+        "helpfulCount": 26
+      },
+      {
+        "id": "rev-3",
+        "author": "Bhupender Yadav",
+        "location": "Alwar, Rajasthan",
+        "rating": 4,
+        "date": "14 Sep 2026",
+        "verified": true,
+        "cropGrown": "Onion & Garlic (6 Acres)",
+        "title": "Comprehensive kit with all necessary fittings",
+        "comment": "Includes screen filter, joiners, and flush valves. Everything mentioned on the package was in the crate.",
+        "helpfulCount": 18
+      }
+    ]
+  },
+  {
+    "id": "ag-17",
+    "name": "GROVE 2 HP DC Solar Submersible Pumping System",
+    "slug": "grove-2-hp-dc-solar-submersible-pumping-system",
+    "category": "Solar Pumps",
+    "description": "Zero-electricity solar borehole submersible pumping system with MPPT smart controller, delivering high water discharge even in hazy weather.",
+    "image": "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-solar.png",
+    "price": 28000,
+    "originalPrice": 35000,
+    "discount": "20% OFF",
+    "savings": 7000,
+    "rating": 4.9,
+    "reviewCount": 96,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "GROVE Solar",
+    "featured": true,
+    "specifications": {
+      "Power": "2 HP DC Submersible",
+      "Head": "15 - 45 Meters",
+      "Flow": "14,000 L/hr",
+      "Warranty": "5 Years Controller & Motor"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-solar.png",
+      "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "High-efficiency solar pumping system operates on 100% clean solar energy without fuel costs",
+      "Advanced MPPT intelligent controller maximizes water output even on overcast days",
+      "Stainless steel 304 construction protects against deep-well silt, sand, and corrosion",
+      "Built-in dry-run, lightning surge, reverse polarity, and thermal protection mechanisms",
+      "Eligible for PM-KUSUM Component-B government subsidy schemes with official GST billing"
+    ],
+    "seller": {
+      "name": "GROVE Agro Direct OEM Depot",
+      "rating": 4.9,
+      "badge": "Certified Brand Depot",
+      "location": "Pune, Maharashtra",
+      "fulfillment": "GROVE Assured Farm Logistics",
+      "pincode": "411001",
+      "coordinates": {
+        "lat": 18.5204,
+        "lng": 73.8567
+      }
+    },
+    "warranty": "5 Years Controller & Motor",
+    "subsidy": {
+      "eligible": true,
+      "scheme": "PM-KUSUM Scheme (Component B)",
+      "rate": "Up to 60% Subsidy",
+      "details": "Eligible for Central & State PM-KUSUM solar agricultural pump subsidy. GROVE provides authorized installation report and GST bill for bank claim."
+    },
+    "offers": [
+      "Govt Subsidy: Up to 60% Subsidy claimable under PM-KUSUM Scheme (Component B)",
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "5 - 7 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "solar",
+      "pumpPower": "2 HP (1.5 kW) DC Submersible",
+      "motorType": "Brushless DC (BLDC) Rare-Earth Magnet",
+      "headRange": "15 - 45 Meters (50 - 150 Feet)",
+      "dailyDischarge": "85,000 Litres/Day (under 6.5 Peak Sun Hours)",
+      "recommendedSolarArray": "1,800 Wp - 2,200 Wp",
+      "mpptEfficiency": "≥ 98.5% with Dry Run, Over-Voltage & Reverse Polarity Protection",
+      "warranty": "5 Years Replacement Warranty on Pump & Controller"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Satish Chandra Meena",
+        "location": "Dausa, Rajasthan",
+        "rating": 5,
+        "date": "21 Oct 2026",
+        "verified": true,
+        "cropGrown": "Mustard & Pearl Millet (14 Acres)",
+        "title": "Runs smoothly from 7:30 AM to 5:00 PM uninterrupted",
+        "comment": "Displaced our costly diesel generator completely. Delivers full discharge even on partially hazy mornings thanks to the MPPT controller.",
+        "helpfulCount": 44
+      },
+      {
+        "id": "rev-2",
+        "author": "Hanumant Gaikwad",
+        "location": "Solapur, Maharashtra",
+        "rating": 5,
+        "date": "08 Oct 2026",
+        "verified": true,
+        "cropGrown": "Pomegranate & Grapes (8 Acres)",
+        "title": "PM-KUSUM subsidy eligible with 5 year warranty",
+        "comment": "Pump housing is full stainless steel. Water output filled my 1-lakh litre farm pond in less than 3 days.",
+        "helpfulCount": 33
+      },
+      {
+        "id": "rev-3",
+        "author": "Gopalakrishnan Nair",
+        "location": "Palakkad, Kerala",
+        "rating": 5,
+        "date": "24 Sep 2026",
+        "verified": true,
+        "cropGrown": "Paddy & Coconut (11 Acres)",
+        "title": "Zero electricity bills and quiet motor operation",
+        "comment": "Very low maintenance. Motor starts automatically as sunlight peaks without manual intervention.",
+        "helpfulCount": 21
+      }
+    ]
+  },
+  {
+    "id": "ag-18",
+    "name": "3 HP AC Solar Agricultural Open-Well Pump",
+    "slug": "3-hp-ac-solar-agricultural-open-well-pump",
+    "category": "Solar Pumps",
+    "description": "Heavy-duty cast stainless steel open-well submersible pump powered by agricultural solar array with dry-run protection.",
+    "image": "https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-solar.png",
+    "price": 42000,
+    "originalPrice": 51000,
+    "discount": "18% OFF",
+    "savings": 9000,
+    "rating": 4.8,
+    "reviewCount": 62,
+    "stockStatus": "In Stock",
+    "inStock": true,
+    "brand": "Kirloskar Solar",
+    "featured": false,
+    "specifications": {
+      "Power": "3 HP AC 3-Phase",
+      "Head": "20 - 60 Meters",
+      "Discharge": "24,000 L/hr"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-solar.png",
+      "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "High-efficiency solar pumping system operates on 100% clean solar energy without fuel costs",
+      "Advanced MPPT intelligent controller maximizes water output even on overcast days",
+      "Stainless steel 304 construction protects against deep-well silt, sand, and corrosion",
+      "Built-in dry-run, lightning surge, reverse polarity, and thermal protection mechanisms",
+      "Eligible for PM-KUSUM Component-B government subsidy schemes with official GST billing"
+    ],
+    "seller": {
+      "name": "Kirloskar Solar Authorized Regional Distributor",
+      "rating": 4.7,
+      "badge": "Verified Agri Dealer",
+      "location": "Indore, Madhya Pradesh",
+      "fulfillment": "GROVE Assured Logistics",
+      "pincode": "452001",
+      "coordinates": {
+        "lat": 22.7196,
+        "lng": 75.8577
+      }
+    },
+    "warranty": "5 Years Replacement Warranty on Pump & Controller",
+    "subsidy": {
+      "eligible": true,
+      "scheme": "PM-KUSUM Scheme (Component B)",
+      "rate": "Up to 60% Subsidy",
+      "details": "Eligible for Central & State PM-KUSUM solar agricultural pump subsidy. GROVE provides authorized installation report and GST bill for bank claim."
+    },
+    "offers": [
+      "Govt Subsidy: Up to 60% Subsidy claimable under PM-KUSUM Scheme (Component B)",
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "5 - 7 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "solar",
+      "pumpPower": "3 HP (2.2 kW) AC Submersible",
+      "motorType": "High-Efficiency 3-Phase AC Induction",
+      "headRange": "20 - 60 Meters (65 - 200 Feet)",
+      "dailyDischarge": "1,20,000 Litres/Day",
+      "recommendedSolarArray": "3,000 Wp - 3,300 Wp",
+      "mpptEfficiency": "≥ 98.5% with Dry Run, Over-Voltage & Reverse Polarity Protection",
+      "warranty": "5 Years Replacement Warranty on Pump & Controller"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Satish Chandra Meena",
+        "location": "Dausa, Rajasthan",
+        "rating": 5,
+        "date": "21 Oct 2026",
+        "verified": true,
+        "cropGrown": "Mustard & Pearl Millet (14 Acres)",
+        "title": "Runs smoothly from 7:30 AM to 5:00 PM uninterrupted",
+        "comment": "Displaced our costly diesel generator completely. Delivers full discharge even on partially hazy mornings thanks to the MPPT controller.",
+        "helpfulCount": 44
+      },
+      {
+        "id": "rev-2",
+        "author": "Hanumant Gaikwad",
+        "location": "Solapur, Maharashtra",
+        "rating": 5,
+        "date": "08 Oct 2026",
+        "verified": true,
+        "cropGrown": "Pomegranate & Grapes (8 Acres)",
+        "title": "PM-KUSUM subsidy eligible with 5 year warranty",
+        "comment": "Pump housing is full stainless steel. Water output filled my 1-lakh litre farm pond in less than 3 days.",
+        "helpfulCount": 33
+      },
+      {
+        "id": "rev-3",
+        "author": "Gopalakrishnan Nair",
+        "location": "Palakkad, Kerala",
+        "rating": 5,
+        "date": "24 Sep 2026",
+        "verified": true,
+        "cropGrown": "Paddy & Coconut (11 Acres)",
+        "title": "Zero electricity bills and quiet motor operation",
+        "comment": "Very low maintenance. Motor starts automatically as sunlight peaks without manual intervention.",
+        "helpfulCount": 21
+      }
+    ]
+  },
+  {
+    "id": "ag-19",
+    "name": "5 HP Solar Monoblock Surface Pump with MPPT",
+    "slug": "5-hp-solar-monoblock-surface-pump-with-mppt",
+    "category": "Solar Pumps",
+    "description": "High-discharge surface monoblock centrifugal pump with integrated high-efficiency MPPT drive for canal and river water lifting.",
+    "image": "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=600&q=80",
+    "fallbackImage": "/images/prod-solar.png",
+    "price": 68000,
+    "originalPrice": 79000,
+    "discount": "14% OFF",
+    "savings": 11000,
+    "rating": 4.7,
+    "reviewCount": 44,
+    "stockStatus": "Limited Stock",
+    "inStock": true,
+    "brand": "GROVE Solar",
+    "featured": false,
+    "specifications": {
+      "Power": "5 HP / 3.7 kW",
+      "Delivery": "3 x 2.5 Inch",
+      "Flow": "45,000 L/hr"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=600&q=80",
+      "/images/prod-solar.png",
+      "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1509391365360-2e959784a276?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "highlights": [
+      "High-efficiency solar pumping system operates on 100% clean solar energy without fuel costs",
+      "Advanced MPPT intelligent controller maximizes water output even on overcast days",
+      "Stainless steel 304 construction protects against deep-well silt, sand, and corrosion",
+      "Built-in dry-run, lightning surge, reverse polarity, and thermal protection mechanisms",
+      "Eligible for PM-KUSUM Component-B government subsidy schemes with official GST billing"
+    ],
+    "seller": {
+      "name": "GROVE Agro Direct OEM Depot",
+      "rating": 4.9,
+      "badge": "Certified Brand Depot",
+      "location": "Pune, Maharashtra",
+      "fulfillment": "GROVE Assured Farm Logistics",
+      "pincode": "411001",
+      "coordinates": {
+        "lat": 18.5204,
+        "lng": 73.8567
+      }
+    },
+    "warranty": "5 Years Replacement Warranty on Pump & Controller",
+    "subsidy": {
+      "eligible": true,
+      "scheme": "PM-KUSUM Scheme (Component B)",
+      "rate": "Up to 60% Subsidy",
+      "details": "Eligible for Central & State PM-KUSUM solar agricultural pump subsidy. GROVE provides authorized installation report and GST bill for bank claim."
+    },
+    "offers": [
+      "Govt Subsidy: Up to 60% Subsidy claimable under PM-KUSUM Scheme (Component B)",
+      "Bank Offer: 5% Unlimited Cashback on Agri Kisan Credit Cards",
+      "GST Input Credit: 100% Tax invoice provided for input tax credit claim",
+      "Farm Doorstep Freight: Insured transit delivery to verified village & farm pincodes"
+    ],
+    "deliveryInfo": {
+      "standardDays": "5 - 7 Business Days",
+      "shippingFee": "FREE Farm Doorstep Delivery",
+      "dispatchTime": "Dispatched within 24 Hours"
+    },
+    "agricultureDetails": {
+      "categoryType": "solar",
+      "pumpPower": "5 HP (3.7 kW) Monoblock Surface",
+      "motorType": "High-Efficiency 3-Phase AC Induction",
+      "headRange": "10 - 30 Meters (35 - 100 Feet)",
+      "dailyDischarge": "2,10,000 Litres/Day",
+      "recommendedSolarArray": "4,800 Wp - 5,000 Wp",
+      "mpptEfficiency": "≥ 98.5% with Dry Run, Over-Voltage & Reverse Polarity Protection",
+      "warranty": "5 Years Replacement Warranty on Pump & Controller"
+    },
+    "reviews": [
+      {
+        "id": "rev-1",
+        "author": "Satish Chandra Meena",
+        "location": "Dausa, Rajasthan",
+        "rating": 5,
+        "date": "21 Oct 2026",
+        "verified": true,
+        "cropGrown": "Mustard & Pearl Millet (14 Acres)",
+        "title": "Runs smoothly from 7:30 AM to 5:00 PM uninterrupted",
+        "comment": "Displaced our costly diesel generator completely. Delivers full discharge even on partially hazy mornings thanks to the MPPT controller.",
+        "helpfulCount": 44
+      },
+      {
+        "id": "rev-2",
+        "author": "Hanumant Gaikwad",
+        "location": "Solapur, Maharashtra",
+        "rating": 5,
+        "date": "08 Oct 2026",
+        "verified": true,
+        "cropGrown": "Pomegranate & Grapes (8 Acres)",
+        "title": "PM-KUSUM subsidy eligible with 5 year warranty",
+        "comment": "Pump housing is full stainless steel. Water output filled my 1-lakh litre farm pond in less than 3 days.",
+        "helpfulCount": 33
+      },
+      {
+        "id": "rev-3",
+        "author": "Gopalakrishnan Nair",
+        "location": "Palakkad, Kerala",
+        "rating": 5,
+        "date": "24 Sep 2026",
+        "verified": true,
+        "cropGrown": "Paddy & Coconut (11 Acres)",
+        "title": "Zero electricity bills and quiet motor operation",
+        "comment": "Very low maintenance. Motor starts automatically as sunlight peaks without manual intervention.",
+        "helpfulCount": 21
+      }
+    ]
+  }
+]

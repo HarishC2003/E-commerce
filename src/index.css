@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Syne', 'Plus Jakarta Sans', sans-serif;
+  --font-script: 'Caveat', cursive;
+  --font-newsreader: 'Newsreader', Georgia, serif;
+
+  --color-grove-dark: #0A3325;
+  --color-grove-forest: #072C20;
+  --color-grove-green: #8BCB45;
+  --color-grove-red: #FF383F;
+  --color-grove-ivory: #F7F3EA;
+  --color-grove-agri: #EDF0D9;
+  --color-grove-elec: #F5F2EC;
+  --color-grove-auto: #F9E4E1;
+
+  --color-agri-forest: #1B4332;
+  --color-agri-deep: #081C15;
+  --color-agri-leaf: #52B788;
+  --color-agri-ivory: #F8FAF8;
+  --color-agri-gold: #D4AF37;
+}
+
+/* Custom scrollbars and utility styling */
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+::selection {
+  background-color: #52B788;
+  color: #081C15;
+}
+
+/* Font family utility classes */
+.font-newsreader {
+  font-family: var(--font-newsreader);
+}
+
+/* Hide scrollbar utility for mobile carousel */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
