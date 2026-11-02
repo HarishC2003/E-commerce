@@ -1,0 +1,143 @@
+{
+  "summary": {
+    "totalVolume": "₹48,25,000",
+    "escrowHeld": "₹6,42,000",
+    "settledToDealers": "₹39,41,750",
+    "pendingSettlements": "₹2,41,250",
+    "commissionRetained": "₹2,41,250"
+  },
+  "transactions": [
+    {
+      "id": "TXN_RZP_992011",
+      "orderId": "GRV-9824",
+      "customer": "Kisan Bhoomi FPO",
+      "dealer": "Apex Agri-Tech & Machinery",
+      "amount": 14500,
+      "amountFormatted": "₹14,500",
+      "paymentMethod": "Razorpay UPI",
+      "status": "Completed",
+      "escrowStatus": "Escrow Held",
+      "date": "2024-10-24 09:15 AM"
+    },
+    {
+      "id": "TXN_RTGS_441092",
+      "orderId": "GRV-7701",
+      "customer": "Bhoomi Shakti FPO",
+      "dealer": "Kisan Agro Hub & Spares",
+      "amount": 350000,
+      "amountFormatted": "₹3,50,000",
+      "paymentMethod": "RTGS Escrow",
+      "status": "Completed",
+      "escrowStatus": "Escrow Held",
+      "date": "2024-10-24 10:45 AM"
+    },
+    {
+      "id": "TXN_NEFT_883921",
+      "orderId": "GRV-9823",
+      "customer": "Sahyadri Agro Machinery",
+      "dealer": "Apex Agri-Tech & Machinery",
+      "amount": 8900,
+      "amountFormatted": "₹8,900",
+      "paymentMethod": "Corporate NEFT",
+      "status": "Completed",
+      "escrowStatus": "Escrow Held",
+      "date": "2024-10-24 08:32 AM"
+    },
+    {
+      "id": "TXN_NB_301984",
+      "orderId": "GRV-7702",
+      "customer": "Shree Ram Krishi Kendra",
+      "dealer": "Kisan Agro Hub & Spares",
+      "amount": 28000,
+      "amountFormatted": "₹28,000",
+      "paymentMethod": "HDFC Net Banking",
+      "status": "Completed",
+      "escrowStatus": "Released",
+      "date": "2024-10-24 09:20 AM"
+    },
+    {
+      "id": "TXN_CARD_102941",
+      "orderId": "GRV-9820",
+      "customer": "Vanguard Farm Solutions",
+      "dealer": "Apex Agri-Tech & Machinery",
+      "amount": 8200,
+      "amountFormatted": "₹8,200",
+      "paymentMethod": "Corporate Card",
+      "status": "Completed",
+      "escrowStatus": "Released",
+      "date": "2024-10-23 04:20 PM"
+    },
+    {
+      "id": "TXN_UPI_552019",
+      "orderId": "GRV-7704",
+      "customer": "Vidarbha Auto Care",
+      "dealer": "Kisan Agro Hub & Spares",
+      "amount": 6450,
+      "amountFormatted": "₹6,450",
+      "paymentMethod": "UPI Scan",
+      "status": "Completed",
+      "escrowStatus": "Released",
+      "date": "2024-10-22 02:30 PM"
+    },
+    {
+      "id": "TXN_FAIL_990182",
+      "orderId": "GRV-2201",
+      "customer": "Chambal Agri Implements",
+      "dealer": "Malwa Farm Equipment Co.",
+      "amount": 5598,
+      "amountFormatted": "₹5,598",
+      "paymentMethod": "UPI Gateway",
+      "status": "Failed",
+      "escrowStatus": "Void",
+      "date": "2024-10-19 10:00 AM"
+    }
+  ],
+  "dealerSettlements": [
+    {
+      "id": "SET-OCT-001",
+      "dealerId": "DEALER_001",
+      "dealerName": "Apex Agri-Tech & Machinery",
+      "bankAccount": "HDFC Bank (Bhosari) ••2910",
+      "orderCount": 42,
+      "grossSales": 348500,
+      "grossSalesFormatted": "₹3,48,500",
+      "commissionDeducted": 15682,
+      "commissionDeductedFormatted": "₹15,682",
+      "netPayout": 332818,
+      "netPayoutFormatted": "₹3,32,818",
+      "status": "Settled",
+      "payoutDate": "2024-10-22"
+    },
+    {
+      "id": "SET-OCT-002",
+      "dealerId": "DEALER_002",
+      "dealerName": "Kisan Agro Hub & Spares",
+      "bankAccount": "SBI Solapur Main ••1102",
+      "orderCount": 18,
+      "grossSales": 194000,
+      "grossSalesFormatted": "₹1,94,000",
+      "commissionDeducted": 9700,
+      "commissionDeductedFormatted": "₹9,700",
+      "netPayout": 184300,
+      "netPayoutFormatted": "₹1,84,300",
+      "status": "Pending Clearance",
+      "payoutDate": "2024-10-25"
+    },
+    {
+      "id": "SET-OCT-003",
+      "dealerId": "DEALER_004",
+      "dealerName": "Vidarbha Tractor Depot",
+      "bankAccount": "PNB Wardha Rd ••5612",
+      "orderCount": 6,
+      "grossSales": 84000,
+      "grossSalesFormatted": "₹84,000",
+      "commissionDeducted": 5040,
+      "commissionDeductedFormatted": "₹5,040",
+      "netPayout": 78960,
+      "netPayoutFormatted": "₹78,960",
+      "status": "On Hold",
+      "payoutDate": "Pending KYC"
+    }
+  ]
+}
+

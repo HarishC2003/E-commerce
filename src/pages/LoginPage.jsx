@@ -14,6 +14,7 @@ import {
 } from 'lucide-react';
 import CategoryShowcase from '../components/auth/CategoryShowcase';
 import demoUsers from '../data/users.json';
+import { setStoredUser, clearStoredUser } from '../utils/auth';
 
 const CURRENT_YEAR = new Date().getFullYear();
 
@@ -77,38 +78,68 @@ export default function LoginPage() {
         (u) => u.email.toLowerCase() === email.trim().toLowerCase() && u.password === password
       );
 
-      if (matchedUser) {
-        // Successful login
-        setLoginSuccess(matchedUser);
-        try {
-          localStorage.setItem('grove_current_user', JSON.stringify({
-            id: matchedUser.id,
-            name: matchedUser.name,
-            email: matchedUser.email,
-            role: matchedUser.role || 'dealer'
-          }));
-        } catch {
-          // Ignore localStorage errors
-        }
+      if (!matchedUser) {
+        // Invalid email/password: stay on Login page and display invalid credentials message
+        setAuthError('Invalid email or password. Please verify your credentials.');
+        return;
+      }
 
-        // Redirect to existing dealer dashboard
+      // Read the user's role field dynamically from the matched JSON record
+      const userRole = matchedUser.role;
+
+      if (userRole === 'admin') {
+        // Store user basic information and role (strictly no password)
+        setStoredUser({
+          id: matchedUser.id,
+          name: matchedUser.name,
+          email: matchedUser.email,
+          role: 'admin'
+        });
+
+        setLoginSuccess({
+          name: matchedUser.name,
+          targetText: 'Credentials authenticated. Redirecting to Admin Dashboard...'
+        });
+
         setTimeout(() => {
-          navigate('/become-a-dealer');
-        }, 1100);
+          navigate('/admin/dashboard');
+        }, 800);
+      } else if (userRole === 'dealer') {
+        // Store user basic information, role, and dealerId (strictly no password)
+        setStoredUser({
+          id: matchedUser.id,
+          name: matchedUser.name,
+          email: matchedUser.email,
+          role: 'dealer',
+          dealerId: matchedUser.dealerId || (matchedUser.email?.toLowerCase().includes('hub') ? 'DEALER_002' : 'DEALER_001')
+        });
+
+        setLoginSuccess({
+          name: matchedUser.name,
+          targetText: 'Credentials authenticated. Redirecting to Dealer Dashboard...'
+        });
+
+        setTimeout(() => {
+          navigate('/dealer/dashboard');
+        }, 800);
       } else {
-        // Invalid credentials
-        setAuthError('Invalid email or password. Please check your credentials or click below to fill demo account.');
+        // Unknown or unsupported role: do not redirect, display appropriate error
+        clearStoredUser();
+        setLoginSuccess(null);
+        setAuthError(`Access restricted: Account role "${userRole || 'unspecified'}" does not have dashboard access. Only Admin and Dealer roles are supported.`);
       }
     }, 600);
   };
 
-  // Quick fill demo user credentials
-  const fillDemoCredentials = () => {
-    const defaultDemo = demoUsers[0] || { email: 'dealer@grove.com', password: 'Grove@123' };
-    setEmail(defaultDemo.email);
-    setPassword(defaultDemo.password);
-    setErrors({});
-    setAuthError('');
+  // Quick fill demo user credentials by role
+  const fillDemoCredentials = (role = 'dealer') => {
+    const defaultDemo = demoUsers.find((u) => u.role === role) || demoUsers[0];
+    if (defaultDemo) {
+      setEmail(defaultDemo.email);
+      setPassword(defaultDemo.password);
+      setErrors({});
+      setAuthError('');
+    }
   };
 
   // Handle forgot password submit
@@ -194,7 +225,7 @@ export default function LoginPage() {
                     <CheckCircle2 className="w-5 h-5 text-[#40916C] shrink-0" />
                     <div className="text-xs">
                       <p className="font-bold">Welcome, {loginSuccess.name}!</p>
-                      <p className="text-neutral-600 mt-0.5">Credentials authenticated. Redirecting to dealer dashboard...</p>
+                      <p className="text-neutral-600 mt-0.5">{loginSuccess.targetText || 'Credentials authenticated. Redirecting...'}</p>
                     </div>
                   </div>
                 )}
@@ -205,13 +236,24 @@ export default function LoginPage() {
                     <AlertCircle className="w-4 h-4 text-red-600 shrink-0 mt-0.5" />
                     <div className="flex-1">
                       <p className="font-semibold leading-snug">{authError}</p>
-                      <button
-                        type="button"
-                        onClick={fillDemoCredentials}
-                        className="mt-1.5 text-[11px] font-bold text-[#1B4332] underline hover:opacity-80 block cursor-pointer"
-                      >
-                        Auto-fill Demo Dealer Credentials (dealer@grove.com / Grove@123)
-                      </button>
+                      <div className="mt-1.5 flex items-center gap-1.5 flex-wrap text-[11px] font-bold text-[#1B4332]">
+                        <span>Try demo:</span>
+                        <button
+                          type="button"
+                          onClick={() => fillDemoCredentials('admin')}
+                          className="underline hover:opacity-80 cursor-pointer"
+                        >
+                          Admin
+                        </button>
+                        <span>•</span>
+                        <button
+                          type="button"
+                          onClick={() => fillDemoCredentials('dealer')}
+                          className="underline hover:opacity-80 cursor-pointer"
+                        >
+                          Dealer
+                        </button>
+                      </div>
                     </div>
                   </div>
                 )}
@@ -340,15 +382,24 @@ export default function LoginPage() {
                 </form>
 
                 {/* Demo Helper Pill */}
-                <div className="mt-4 pt-3 border-t border-neutral-100 flex items-center justify-between text-xs text-neutral-500">
-                  <span>Demo Account:</span>
-                  <button
-                    type="button"
-                    onClick={fillDemoCredentials}
-                    className="font-bold text-[#1B4332] hover:underline bg-[#EBF4EE] px-2.5 py-1 rounded-full text-[11px] cursor-pointer"
-                  >
-                    Use demo dealer login
-                  </button>
+                <div className="mt-4 pt-3 border-t border-neutral-100 flex flex-wrap items-center justify-between gap-2 text-xs text-neutral-500">
+                  <span>Demo Logins:</span>
+                  <div className="flex items-center gap-2">
+                    <button
+                      type="button"
+                      onClick={() => fillDemoCredentials('admin')}
+                      className="font-bold text-[#1B4332] hover:underline bg-[#EBF4EE] px-2.5 py-1 rounded-full text-[11px] cursor-pointer"
+                    >
+                      Admin
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => fillDemoCredentials('dealer')}
+                      className="font-bold text-[#1B4332] hover:underline bg-[#EBF4EE] px-2.5 py-1 rounded-full text-[11px] cursor-pointer"
+                    >
+                      Dealer
+                    </button>
+                  </div>
                 </div>
               </div>
 

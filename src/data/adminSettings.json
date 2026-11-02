@@ -1,0 +1,63 @@
+{
+  "general": {
+    "marketplaceName": "GROVE Agritech & Commercial Marketplace",
+    "supportEmail": "operations@grove.com",
+    "supportPhone": "+91 80000 12345",
+    "defaultCurrency": "INR (₹)",
+    "maintenanceMode": false,
+    "systemVersion": "2.4.0-Enterprise"
+  },
+  "commission": {
+    "defaultCommissionRate": 5.0,
+    "minPayoutThreshold": 10000,
+    "escrowHoldPeriodDays": 3,
+    "taxTcsRate": 1.0,
+    "autoApproveTrustedDealers": true
+  },
+  "profile": {
+    "name": "GROVE Admin",
+    "email": "admin@grove.com",
+    "department": "Platform Operations",
+    "role": "Super Admin",
+    "avatar": "GA",
+    "phone": "+91 98200 99100"
+  },
+  "roles": [
+    {
+      "id": "role-super",
+      "name": "Super Admin",
+      "description": "Full access to platform governance, financial settlements, user roles, and security audit logs.",
+      "usersCount": 2,
+      "isSystem": true
+    },
+    {
+      "id": "role-ops",
+      "name": "Operations Lead",
+      "description": "Manage dealer inventory, order fulfillment, shipping dispute escalations, and regional logistics.",
+      "usersCount": 4,
+      "isSystem": false
+    },
+    {
+      "id": "role-catalog",
+      "name": "Catalog Moderator",
+      "description": "Approve, moderate, categorize, and verify specifications for dealer product listings.",
+      "usersCount": 3,
+      "isSystem": false
+    },
+    {
+      "id": "role-support",
+      "name": "Support Specialist",
+      "description": "Handle customer complaints, buyer ticket routing, and dealer communication.",
+      "usersCount": 5,
+      "isSystem": false
+    }
+  ],
+  "notifications": {
+    "emailOnNewKyc": true,
+    "emailOnEscalatedDispute": true,
+    "emailOnLowStock": true,
+    "emailDailySummary": true,
+    "smsUrgentAlerts": false
+  }
+}
+

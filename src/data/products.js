@@ -1,6 +1,7 @@
 export const BEST_SELLERS = [
   {
     id: 1,
+    dealerId: "DEALER_002",
     name: "Mini Tractor 25 HP",
     category: "Agriculture",
     discount: "-12%",
@@ -12,6 +13,7 @@ export const BEST_SELLERS = [
   },
   {
     id: 2,
+    dealerId: "DEALER_002",
     name: "Solar Water Pump 2HP",
     category: "Agriculture",
     discount: "-20%",
@@ -23,6 +25,7 @@ export const BEST_SELLERS = [
   },
   {
     id: 3,
+    dealerId: "DEALER_001",
     name: "Noise Wireless Headphones",
     category: "Electronics",
     discount: "-18%",
@@ -34,6 +37,7 @@ export const BEST_SELLERS = [
   },
   {
     id: 4,
+    dealerId: "DEALER_001",
     name: "Lenovo IdeaPad Laptop",
     category: "Electronics",
     discount: null,
@@ -45,6 +49,7 @@ export const BEST_SELLERS = [
   },
   {
     id: 5,
+    dealerId: "DEALER_002",
     name: "Car Tyre 185/65 R15",
     category: "Automotive",
     discount: "-15%",
@@ -56,6 +61,7 @@ export const BEST_SELLERS = [
   },
   {
     id: 6,
+    dealerId: "DEALER_002",
     name: "Front Brake Pad Set",
     category: "Automotive",
     discount: "-22%",
@@ -70,6 +76,7 @@ export const BEST_SELLERS = [
 export const ELECTRONICS_PRODUCTS = [
   {
     id: "el-1",
+    dealerId: "DEALER_001",
     name: "Noise Wireless Headphones",
     category: "Electronics",
     discount: "-18%",
@@ -82,6 +89,7 @@ export const ELECTRONICS_PRODUCTS = [
   },
   {
     id: "el-2",
+    dealerId: "DEALER_001",
     name: "Lenovo IdeaPad Laptop",
     category: "Electronics",
     discount: null,
@@ -94,6 +102,7 @@ export const ELECTRONICS_PRODUCTS = [
   },
   {
     id: "el-3",
+    dealerId: "DEALER_002",
     name: "Amoled Smartwatch Pro",
     category: "Electronics",
     discount: "-32%",
@@ -106,6 +115,7 @@ export const ELECTRONICS_PRODUCTS = [
   },
   {
     id: "el-4",
+    dealerId: "DEALER_001",
     name: "Mechanical Wireless Keyboard",
     category: "Electronics",
     discount: "-21%",
@@ -118,6 +128,7 @@ export const ELECTRONICS_PRODUCTS = [
   },
   {
     id: "el-5",
+    dealerId: "DEALER_001",
     name: "Studio Monitor Headphones",
     category: "Electronics",
     discount: "-24%",
@@ -133,6 +144,7 @@ export const ELECTRONICS_PRODUCTS = [
 export const AUTOMOTIVE_PRODUCTS = [
   {
     id: "au-1",
+    dealerId: "DEALER_002",
     name: "Car Tyre 185/65 R15",
     category: "Automotive",
     discount: "-15%",
@@ -145,6 +157,7 @@ export const AUTOMOTIVE_PRODUCTS = [
   },
   {
     id: "au-2",
+    dealerId: "DEALER_002",
     name: "Front Brake Pad Set",
     category: "Automotive",
     discount: "-22%",
@@ -157,6 +170,7 @@ export const AUTOMOTIVE_PRODUCTS = [
   },
   {
     id: "au-3",
+    dealerId: "DEALER_002",
     name: "Hydraulic Coilover Shock Absorber",
     category: "Automotive",
     discount: "-20%",
@@ -169,6 +183,7 @@ export const AUTOMOTIVE_PRODUCTS = [
   },
   {
     id: "au-4",
+    dealerId: "DEALER_002",
     name: "High Performance Radial Tyre R17",
     category: "Automotive",
     discount: "-18%",
@@ -181,6 +196,7 @@ export const AUTOMOTIVE_PRODUCTS = [
   },
   {
     id: "au-5",
+    dealerId: "DEALER_002",
     name: "Ceramic Rear Brake Pad Kit",
     category: "Automotive",
     discount: "-25%",
@@ -263,4 +279,314 @@ export const TRUST_FEATURES = [
     description: "Full dispatch logistics updates with road freight tracking for bulky and parcel goods.",
     iconName: "Truck",
   },
+];
+
+// Centralized Dealer Portal Catalog Products mapped by dealerId
+export const DEALER_CATALOG_PRODUCTS = [
+  // --- DEALER_001 (Demo Dealer / Apex Agri-Tech) ---
+  {
+    id: 'prod-irr-16mm',
+    dealerId: 'DEALER_001',
+    name: 'Precision Drip Irrigation Emitter Tube 16mm',
+    description: 'High-grade virgin polyethylene drip line engineered for precision crop hydration. Integrated non-draining pressure-compensating emitters ensure uniform flow across undulating agricultural terrain.',
+    price: 1850,
+    mrp: 2199,
+    originalPrice: 2199,
+    discount: 15,
+    gstRate: 12,
+    category: 'Agriculture & Farming',
+    subcategory: 'Micro-Irrigation & Tubing',
+    specs: {
+      material: 'Virgin HDPE (UV Protected)',
+      pipeSize: '16 mm (OD)',
+      flowRate: '4.0 LPH @ 1.0 Bar'
+    },
+    sku: 'AGR-IRR-16MM-500M',
+    stock: 150,
+    threshold: 25,
+    location: 'Depot A • Bay 14',
+    status: 'active',
+    image: 'https://images.unsplash.com/photo-1592417817098-8f3d6910985b?auto=format&fit=crop&w=800&q=80',
+    images: [
+      'https://images.unsplash.com/photo-1592417817098-8f3d6910985b?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1563514227147-6d2ff665a6a0?auto=format&fit=crop&w=800&q=80'
+    ]
+  },
+  {
+    id: 'prod-drp-kit',
+    dealerId: 'DEALER_001',
+    name: 'HydroHarvest Drip Irrigation Master Kit',
+    description: 'Complete farm drip irrigation set with heavy-duty screen filter, mainline lateral piping, micro-emitters, and pressure regulator for commercial vegetable plots.',
+    price: 14500,
+    mrp: 17500,
+    originalPrice: 17500,
+    discount: 17,
+    gstRate: 12,
+    category: 'Agriculture & Farming',
+    subcategory: 'Micro-Irrigation & Tubing',
+    specs: {
+      material: 'Virgin Polyethylene & Brass',
+      pipeSize: '25mm Main / 16mm Lateral',
+      flowRate: '1200 LPH Capacity'
+    },
+    sku: 'AG-DRP-801',
+    stock: 340,
+    threshold: 50,
+    location: 'Depot A • Bay 14',
+    status: 'active',
+    image: '/images/prod-drip.png',
+    images: ['/images/prod-drip.png']
+  },
+  {
+    id: 'prod-pto-shaft',
+    dealerId: 'DEALER_001',
+    name: 'AgroShield 50HP PTO Drive Shaft',
+    description: 'Heavy-duty splined PTO shaft with shear bolt torque limiter, forged universal joints, and CE-certified protective safety shroud for rotary tillers and slashers.',
+    price: 8900,
+    mrp: 10500,
+    originalPrice: 10500,
+    discount: 15,
+    gstRate: 18,
+    category: 'Agriculture & Farming',
+    subcategory: 'Drivetrain Linkages',
+    specs: {
+      material: 'Hardened Alloy Steel',
+      pipeSize: '1-3/8" 6-Spline',
+      flowRate: '540 / 1000 RPM Rated'
+    },
+    sku: 'AG-PTO-102',
+    stock: 82,
+    threshold: 20,
+    location: 'Depot A • Bay 02',
+    status: 'active',
+    image: '/images/prod-cultivator.png',
+    images: ['/images/prod-cultivator.png']
+  },
+  {
+    id: 'prod-duramax-alt',
+    dealerId: 'DEALER_001',
+    name: 'Duramax Tractor Alternator 120A',
+    description: 'Industrial high-output sealed alternator designed for agricultural tractors and harvester fleets operating under heavy dust and high-temperature conditions.',
+    price: 8200,
+    mrp: 9800,
+    originalPrice: 9800,
+    discount: 16,
+    gstRate: 18,
+    category: 'Automotive & Spare Parts',
+    subcategory: 'Electrical Charging',
+    specs: {
+      material: 'Die-cast Aluminum Housing',
+      pipeSize: 'Universal 2-Ear Bracket',
+      flowRate: '12V 120A Steady Output'
+    },
+    sku: 'AU-ALT-404',
+    stock: 4,
+    threshold: 15,
+    location: 'North Bay • WH-2',
+    status: 'active',
+    image: '/images/prod-oilfilter-raw.png',
+    images: ['/images/prod-oilfilter-raw.png']
+  },
+  {
+    id: 'prod-soil-iot',
+    dealerId: 'DEALER_001',
+    name: 'Precision Soil Sensor Telemetry V2',
+    description: 'Multi-depth IoT soil monitoring probe measuring moisture, electrical conductivity (EC), and ground temperature with integrated 4G-LTE telemetry gateway.',
+    price: 24500,
+    mrp: 29000,
+    originalPrice: 29000,
+    discount: 15,
+    gstRate: 18,
+    category: 'Electronics & Gadgets',
+    subcategory: 'Smart Ag Tech',
+    specs: {
+      material: '316L Stainless Steel Probes',
+      pipeSize: '60cm Probe Length',
+      flowRate: 'Modbus RS485 / Solar Powered'
+    },
+    sku: 'EL-IOT-301',
+    stock: 198,
+    threshold: 30,
+    location: 'Hub East • Rack C',
+    status: 'active',
+    image: '/images/prod-smartwatch.png',
+    images: ['/images/prod-smartwatch.png']
+  },
+  {
+    id: 'prod-crdi-nozzle',
+    dealerId: 'DEALER_001',
+    name: 'Bosch Fuel Injector CR-Diesel',
+    description: 'Precision common rail diesel fuel injector nozzle unit delivering high atomization pressure for commercial Mahindra, Sonalika, and Swaraj tractor engines.',
+    price: 6400,
+    mrp: 7500,
+    originalPrice: 7500,
+    discount: 14,
+    gstRate: 18,
+    category: 'Automotive & Spare Parts',
+    subcategory: 'Combustion Systems',
+    specs: {
+      material: 'Special Tungsten Coated Steel',
+      pipeSize: 'Standard CRDI Mount',
+      flowRate: '1800 Bar Rating'
+    },
+    sku: 'AU-INJ-992',
+    stock: 0,
+    threshold: 10,
+    location: 'Depot A • Bay 09',
+    status: 'active',
+    image: '/images/prod-brakepads.png',
+    images: ['/images/prod-brakepads.png']
+  },
+
+  // --- DEALER_002 (Kisan Agro Hub) ---
+  {
+    id: 'prod-mini-tractor',
+    dealerId: 'DEALER_002',
+    name: 'Mini Tractor 25 HP Direct OEM',
+    description: 'Compact 25 HP 4WD multi-crop diesel tractor designed for orchard operations, inter-row sugarcane weeding, and rotavator tilling with low fuel consumption.',
+    price: 350000,
+    mrp: 399000,
+    originalPrice: 399000,
+    discount: 12,
+    gstRate: 12,
+    category: 'Agriculture & Farming',
+    subcategory: 'Farm Machinery',
+    specs: {
+      material: 'Reinforced Chassis & Alloy Transmission',
+      pipeSize: 'Category 1 3-Point Hitch',
+      flowRate: '540 RPM PTO / 1200kg Lift'
+    },
+    sku: 'AG-TRC-025',
+    stock: 8,
+    threshold: 2,
+    location: 'Solapur Yard • Bay 01',
+    status: 'active',
+    image: '/images/prod-tractor.png',
+    images: ['/images/prod-tractor.png']
+  },
+  {
+    id: 'prod-solar-pump-2hp',
+    dealerId: 'DEALER_002',
+    name: 'Solar Water Pump 2HP Submersible',
+    description: 'High-efficiency solar brushless DC water pump set with MPPT controller, dry-run protection, and stainless steel impeller suitable for deep tube wells.',
+    price: 28000,
+    mrp: 35000,
+    originalPrice: 35000,
+    discount: 20,
+    gstRate: 12,
+    category: 'Agriculture & Farming',
+    subcategory: 'Water Irrigation',
+    specs: {
+      material: 'AISI 304 Stainless Steel',
+      pipeSize: '50mm Delivery Pipe',
+      flowRate: '18,000 Litres/Hour'
+    },
+    sku: 'AG-SLR-200',
+    stock: 24,
+    threshold: 5,
+    location: 'Solapur Yard • Bay 04',
+    status: 'active',
+    image: '/images/prod-solar.png',
+    images: ['/images/prod-solar.png']
+  },
+  {
+    id: 'prod-car-tyre-15',
+    dealerId: 'DEALER_002',
+    name: 'Commercial All-Weather Tyre 185/65 R15',
+    description: 'High-mileage steel belted radial tyre engineered for rural road transport, pickup trucks, and commercial vehicles with cut-resistant tread compound.',
+    price: 4500,
+    mrp: 5299,
+    originalPrice: 5299,
+    discount: 15,
+    gstRate: 28,
+    category: 'Automotive & Spare Parts',
+    subcategory: 'Tires & Wheels',
+    specs: {
+      material: 'Silica Reinforced Synthetic Rubber',
+      pipeSize: '15-inch Rim Diameter',
+      flowRate: 'Speed Index H (210 km/h)'
+    },
+    sku: 'AU-TYR-185',
+    stock: 65,
+    threshold: 12,
+    location: 'Rubber Depot • Rack B',
+    status: 'active',
+    image: '/images/prod-tyre.png',
+    images: ['/images/prod-tyre.png']
+  },
+  {
+    id: 'prod-brake-pad-f',
+    dealerId: 'DEALER_002',
+    name: 'Front Brake Pad Set OEM Heavy Duty',
+    description: 'Ceramic composite brake pads providing fade-resistant stopping performance and extended disc life under high load payload applications.',
+    price: 1950,
+    mrp: 2499,
+    originalPrice: 2499,
+    discount: 22,
+    gstRate: 18,
+    category: 'Automotive & Spare Parts',
+    subcategory: 'Braking Systems',
+    specs: {
+      material: 'Semi-Metallic Ceramic Compound',
+      pipeSize: 'Standard Caliper Fitment',
+      flowRate: 'Operating Temp up to 650°C'
+    },
+    sku: 'AU-BRK-101',
+    stock: 110,
+    threshold: 20,
+    location: 'Spares Hub • Shelf 3',
+    status: 'active',
+    image: '/images/prod-brakepads.png',
+    images: ['/images/prod-brakepads.png']
+  },
+  {
+    id: 'prod-hydraulic-shock',
+    dealerId: 'DEALER_002',
+    name: 'Hydraulic Coilover Shock Absorber',
+    description: 'Heavy duty nitrogen-charged twin tube shock absorber with progressive rate spring for agricultural trailers and utility trucks.',
+    price: 3250,
+    mrp: 4099,
+    originalPrice: 4099,
+    discount: 20,
+    gstRate: 18,
+    category: 'Automotive & Spare Parts',
+    subcategory: 'Suspension',
+    specs: {
+      material: 'Hard Chrome Piston Rod',
+      pipeSize: 'Eye-to-Eye 420mm',
+      flowRate: 'Gas-Hydraulic Damping'
+    },
+    sku: 'AU-SHK-301',
+    stock: 3,
+    threshold: 8,
+    location: 'Spares Hub • Shelf 5',
+    status: 'active',
+    image: '/images/prod-shockabsorber.png',
+    images: ['/images/prod-shockabsorber.png']
+  },
+  {
+    id: 'prod-amoled-smartwatch',
+    dealerId: 'DEALER_002',
+    name: 'Field Telemetry Smartwatch V4',
+    description: 'Rugged GPS field watch with solar charging assistance, barometric altimeter, and IoT sensor telemetry display for farm estate managers.',
+    price: 3999,
+    mrp: 5899,
+    originalPrice: 5899,
+    discount: 32,
+    gstRate: 18,
+    category: 'Electronics & Gadgets',
+    subcategory: 'Wearables & IoT',
+    specs: {
+      material: 'Polymer Case & Sapphire Glass',
+      pipeSize: '1.43-inch AMOLED Display',
+      flowRate: '5ATM Waterproof'
+    },
+    sku: 'EL-WTC-400',
+    stock: 45,
+    threshold: 10,
+    location: 'Electronics Vault • Box 12',
+    status: 'active',
+    image: '/images/prod-smartwatch.png',
+    images: ['/images/prod-smartwatch.png']
+  }
 ];

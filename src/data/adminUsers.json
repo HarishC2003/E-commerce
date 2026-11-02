@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ADMIN_001",
+    "name": "GROVE Admin",
+    "email": "admin@grove.com",
+    "password": "Admin@123",
+    "role": "Super Admin",
+    "department": "Platform Operations",
+    "avatar": "GA",
+    "lastLogin": "Today, 10:45 AM"
+  },
+  {
+    "id": "ADMIN_002",
+    "name": "Priya Sharma",
+    "email": "ops@grove.com",
+    "password": "Admin@123",
+    "role": "Operations Lead",
+    "department": "Logistics & Fulfillment",
+    "avatar": "PS",
+    "lastLogin": "Yesterday, 04:30 PM"
+  }
+]
+

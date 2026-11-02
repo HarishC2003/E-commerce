@@ -1,0 +1,121 @@
+{
+  "availableReports": [
+    {
+      "id": "rep-sales",
+      "name": "Comprehensive Sales & GMV Report",
+      "description": "Gross merchandising volume, net platform revenue, dealer commissions, and average order value breakdown.",
+      "category": "Financial",
+      "formats": ["CSV", "XLSX", "PDF"],
+      "lastGenerated": "Today, 08:00 AM",
+      "period": "Last 30 Days"
+    },
+    {
+      "id": "rep-orders",
+      "name": "Order Lifecycle & Logistics Statement",
+      "description": "Complete order status progression, shipping carriers, delivery SLA adherence, and cancellation analysis.",
+      "category": "Operations",
+      "formats": ["CSV", "PDF"],
+      "lastGenerated": "Yesterday",
+      "period": "Quarter to Date"
+    },
+    {
+      "id": "rep-dealers",
+      "name": "Dealer Compliance & Performance Scorecard",
+      "description": "Dealer fulfillment SLA %, active catalog count, customer ratings, and gross settlement volume.",
+      "category": "Merchant",
+      "formats": ["CSV", "XLSX"],
+      "lastGenerated": "Oct 22, 2024",
+      "period": "Year to Date"
+    },
+    {
+      "id": "rep-customers",
+      "name": "Buyer & FPO Cooperative Activity Report",
+      "description": "Registered buyer accounts, institutional order frequency, average ticket sizes, and regional distribution.",
+      "category": "Customers",
+      "formats": ["CSV"],
+      "lastGenerated": "Oct 20, 2024",
+      "period": "Last 90 Days"
+    },
+    {
+      "id": "rep-inventory",
+      "name": "Multi-Depot Stock Valuation & Aging Audit",
+      "description": "Current on-hand inventory across all dealer bays, low-stock warnings, and slow-moving equipment.",
+      "category": "Inventory",
+      "formats": ["CSV", "XLSX"],
+      "lastGenerated": "Oct 23, 2024",
+      "period": "Current Snapshot"
+    },
+    {
+      "id": "rep-tax",
+      "name": "GST Output & TDS Settlement Statement",
+      "description": "State-wise GST liabilities, TCS collected, and tax invoice reconciliation for filing.",
+      "category": "Tax & Compliance",
+      "formats": ["CSV", "XLSX"],
+      "lastGenerated": "Oct 15, 2024",
+      "period": "Monthly Filing"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "AUD_9012",
+      "admin": "GROVE Admin",
+      "role": "Super Admin",
+      "action": "KYC Approved",
+      "module": "Dealers",
+      "details": "Approved merchant verification for Sahyadri Agro Implement Works (DEALER_003).",
+      "timestamp": "2024-10-24 11:20 AM",
+      "status": "Success"
+    },
+    {
+      "id": "AUD_9011",
+      "admin": "Operations Lead",
+      "role": "Admin",
+      "action": "Stock Adjusted",
+      "module": "Inventory",
+      "details": "Adjusted stock for HydroHarvest Drip Kit (AG-DRP-801) from 320 to 340 units (+20 inbound).",
+      "timestamp": "2024-10-24 10:15 AM",
+      "status": "Success"
+    },
+    {
+      "id": "AUD_9010",
+      "admin": "GROVE Admin",
+      "role": "Super Admin",
+      "action": "Commission Rate Updated",
+      "module": "Dealers",
+      "details": "Updated commission rate for Apex Agri-Tech (DEALER_001) to 4.5%.",
+      "timestamp": "2024-10-24 09:40 AM",
+      "status": "Success"
+    },
+    {
+      "id": "AUD_9009",
+      "admin": "Operations Lead",
+      "role": "Admin",
+      "action": "Order Dispatched",
+      "module": "Orders",
+      "details": "Marked order #GRV-9820 as Shipped with Blue Dart tracking BLR-772910.",
+      "timestamp": "2024-10-23 04:25 PM",
+      "status": "Success"
+    },
+    {
+      "id": "AUD_9008",
+      "admin": "GROVE Admin",
+      "role": "Super Admin",
+      "action": "Product Moderated",
+      "module": "Products",
+      "details": "Approved new listing: Mini Tractor 25 HP 4WD (AG-TRC-025).",
+      "timestamp": "2024-10-23 02:10 PM",
+      "status": "Success"
+    },
+    {
+      "id": "AUD_9007",
+      "admin": "GROVE Admin",
+      "role": "Super Admin",
+      "action": "Payout Hold Released",
+      "module": "Payments",
+      "details": "Released escrow payout batch #SET-OCT-001 (₹3,32,818) to Apex Agri-Tech.",
+      "timestamp": "2024-10-22 05:00 PM",
+      "status": "Success"
+    }
+  ]
+}
+

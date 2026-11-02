@@ -1,0 +1,51 @@
+[
+  {
+    "id": "cat-agri",
+    "name": "Agriculture & Farming",
+    "slug": "agriculture-farming",
+    "description": "Essential commercial agricultural implements, tractors, precision drip irrigation, seeds, and bio-nutrients.",
+    "icon": "Tractor",
+    "commissionRate": 4.5,
+    "productCount": 98,
+    "status": "Active",
+    "subcategories": [
+      { "id": "sub-agri-1", "name": "Micro-Irrigation & Tubing", "slug": "micro-irrigation", "productCount": 32, "status": "Active" },
+      { "id": "sub-agri-2", "name": "Tractors & Heavy Machinery", "slug": "tractors-machinery", "productCount": 24, "status": "Active" },
+      { "id": "sub-agri-3", "name": "Pumps & Solar Borewells", "slug": "pumps-motors", "productCount": 18, "status": "Active" },
+      { "id": "sub-agri-4", "name": "Tillage & Implements", "slug": "tillage-implements", "productCount": 14, "status": "Active" },
+      { "id": "sub-agri-5", "name": "Fertilizers & Nutrients", "slug": "fertilizers-nutrients", "productCount": 10, "status": "Active" }
+    ]
+  },
+  {
+    "id": "cat-elec",
+    "name": "Electronics & Gadgets",
+    "slug": "electronics-gadgets",
+    "description": "Precision farm telemetry sensors, IoT monitoring probes, agricultural spray drones, and communication gear.",
+    "icon": "Cpu",
+    "commissionRate": 5.5,
+    "productCount": 35,
+    "status": "Active",
+    "subcategories": [
+      { "id": "sub-elec-1", "name": "Smart Farming Sensors", "slug": "smart-sensors", "productCount": 15, "status": "Active" },
+      { "id": "sub-elec-2", "name": "Audio & Industrial Headsets", "slug": "audio-communication", "productCount": 12, "status": "Active" },
+      { "id": "sub-elec-3", "name": "Telemetry Gateway Hubs", "slug": "telemetry-gateways", "productCount": 8, "status": "Active" }
+    ]
+  },
+  {
+    "id": "cat-auto",
+    "name": "Automotive & Spare Parts",
+    "slug": "automotive-spare-parts",
+    "description": "Replacement parts, alternators, radial tyres, brake systems, lubricants, and filtration components.",
+    "icon": "Wrench",
+    "commissionRate": 6.0,
+    "productCount": 25,
+    "status": "Active",
+    "subcategories": [
+      { "id": "sub-auto-1", "name": "Tyres & Heavy Rims", "slug": "tyres-rims", "productCount": 9, "status": "Active" },
+      { "id": "sub-auto-2", "name": "Brake Systems & Pads", "slug": "brake-systems", "productCount": 7, "status": "Active" },
+      { "id": "sub-auto-3", "name": "Electrical & Starters", "slug": "electrical-starters", "productCount": 5, "status": "Active" },
+      { "id": "sub-auto-4", "name": "Filters & Lubrication", "slug": "filters-lubricants", "productCount": 4, "status": "Active" }
+    ]
+  }
+]
+

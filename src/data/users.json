@@ -1,24 +1,40 @@
 [
   {
     "id": 1,
-    "name": "Demo Dealer",
-    "email": "dealer@grove.com",
-    "password": "Grove@123",
-    "role": "dealer"
+    "name": "GROVE Admin",
+    "email": "admin@grove.com",
+    "password": "Admin@123",
+    "role": "admin"
   },
   {
     "id": 2,
+    "name": "Demo Dealer",
+    "email": "dealer@grove.com",
+    "password": "Grove@123",
+    "role": "dealer",
+    "dealerId": "DEALER_001"
+  },
+  {
+    "id": 3,
     "name": "Harish Patel",
     "email": "farmer@grove.com",
     "password": "Grove@123",
     "role": "customer"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Kisan Agro Hub",
     "email": "hub@grove.com",
     "password": "Grove@123",
-    "role": "dealer"
+    "role": "dealer",
+    "dealerId": "DEALER_002"
+  },
+  {
+    "id": 5,
+    "name": "Kisan Agro Hub",
+    "email": "kisan@grove.com",
+    "password": "Grove@123",
+    "role": "dealer",
+    "dealerId": "DEALER_002"
   }
 ]
-

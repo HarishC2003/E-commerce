@@ -20,6 +20,34 @@
   --color-agri-leaf: #52B788;
   --color-agri-ivory: #F8FAF8;
   --color-agri-gold: #D4AF37;
+
+  /* GROVE Dealer Portal Theme Tokens */
+  --color-primary: #012D1D;
+  --color-primary-container: #1B4332;
+  --color-secondary: #2C694E;
+  --color-secondary-container: #AEEECB;
+  --color-secondary-fixed: #B1F0CE;
+  --color-secondary-fixed-variant: #0E5138;
+  --color-background: #F3FCF3;
+  --color-surface: #F3FCF3;
+  --color-surface-container-lowest: #FFFFFF;
+  --color-surface-container-low: #EDF6ED;
+  --color-surface-container: #E7F0E8;
+  --color-surface-container-high: #E1EBE2;
+  --color-surface-container-highest: #DCE5DC;
+  --color-on-surface: #151D18;
+  --color-on-surface-variant: #414844;
+  --color-outline: #717973;
+  --color-outline-variant: #C1C8C2;
+  --color-on-primary: #FFFFFF;
+  --color-on-secondary: #FFFFFF;
+  --color-on-secondary-container: #316E52;
+  --color-error: #BA1A1A;
+  --color-error-container: #FFDAD6;
+  --color-on-error-container: #93000A;
+  --color-on-error: #FFFFFF;
+  --color-primary-fixed: #C1ECD4;
+  --color-primary-fixed-dim: #A5D0B9;
 }
 
 /* Custom scrollbars and utility styling */

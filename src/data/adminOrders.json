@@ -1,0 +1,320 @@
+[
+  {
+    "id": "GRV-9824",
+    "customer": {
+      "name": "Kisan Bhoomi FPO",
+      "contactPerson": "Rameshvar Shinde",
+      "email": "procurement@kisanbhoomi.org",
+      "phone": "+91 98201 44219",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "address": "Plot 42, Sector 18, MIDC Industrial Area, Nashik 422007"
+    },
+    "dealerId": "DEALER_001",
+    "dealerName": "Apex Agri-Tech & Machinery",
+    "items": [
+      {
+        "id": "PROD_002",
+        "sku": "AG-DRP-801",
+        "name": "HydroHarvest Drip Irrigation Master Kit",
+        "price": 14500,
+        "quantity": 1
+      }
+    ],
+    "amount": 14500,
+    "amountFormatted": "₹14,500",
+    "paymentMethod": "UPI Scan",
+    "paymentStatus": "Paid",
+    "orderStatus": "Placed",
+    "date": "2024-10-24 09:15 AM",
+    "trackingNumber": "DLH-992011",
+    "carrier": "Delhivery Cargo Express"
+  },
+  {
+    "id": "GRV-7701",
+    "customer": {
+      "name": "Bhoomi Shakti FPO",
+      "contactPerson": "Pandurang Patil",
+      "email": "patil@bhoomishakti.co.in",
+      "phone": "+91 94220 11982",
+      "city": "Kolhapur",
+      "state": "Maharashtra",
+      "address": "Gat 112, Shirol Taluka, Kolhapur 416103"
+    },
+    "dealerId": "DEALER_002",
+    "dealerName": "Kisan Agro Hub & Spares",
+    "items": [
+      {
+        "id": "PROD_003",
+        "sku": "AG-TRC-025",
+        "name": "Mini Tractor 25 HP 4WD",
+        "price": 350000,
+        "quantity": 1
+      }
+    ],
+    "amount": 350000,
+    "amountFormatted": "₹3,50,000",
+    "paymentMethod": "RTGS Escrow",
+    "paymentStatus": "Paid",
+    "orderStatus": "Placed",
+    "date": "2024-10-24 10:45 AM",
+    "trackingNumber": "GATI-882910",
+    "carrier": "Gati KWE Heavy Logistics"
+  },
+  {
+    "id": "GRV-9823",
+    "customer": {
+      "name": "Sahyadri Agro Machinery",
+      "contactPerson": "Dinesh Kulkarni",
+      "email": "orders@sahyadriagro.com",
+      "phone": "+91 98223 99012",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "address": "Gat No. 118, Pune-Bangalore Highway, Shirwal 412801"
+    },
+    "dealerId": "DEALER_001",
+    "dealerName": "Apex Agri-Tech & Machinery",
+    "items": [
+      {
+        "id": "PROD_005",
+        "sku": "AG-PTO-102",
+        "name": "AgroShield 50HP PTO Drive Shaft",
+        "price": 8900,
+        "quantity": 1
+      }
+    ],
+    "amount": 8900,
+    "amountFormatted": "₹8,900",
+    "paymentMethod": "Corporate NEFT",
+    "paymentStatus": "Paid",
+    "orderStatus": "Processing",
+    "date": "2024-10-24 08:32 AM",
+    "trackingNumber": "DLH-992019",
+    "carrier": "Delhivery Express"
+  },
+  {
+    "id": "GRV-7702",
+    "customer": {
+      "name": "Shree Ram Krishi Kendra",
+      "contactPerson": "Gopal Mane",
+      "email": "shreeram@krishi.org",
+      "phone": "+91 97654 11200",
+      "city": "Pandharpur",
+      "state": "Maharashtra",
+      "address": "Shop 4, Market Yard, Pandharpur 413304"
+    },
+    "dealerId": "DEALER_002",
+    "dealerName": "Kisan Agro Hub & Spares",
+    "items": [
+      {
+        "id": "PROD_004",
+        "sku": "AG-SOL-2HP",
+        "name": "Solar Water Submersible Pump 2HP",
+        "price": 28000,
+        "quantity": 1
+      }
+    ],
+    "amount": 28000,
+    "amountFormatted": "₹28,000",
+    "paymentMethod": "Net Banking",
+    "paymentStatus": "Paid",
+    "orderStatus": "Processing",
+    "date": "2024-10-24 09:20 AM",
+    "trackingNumber": "VRN-554109",
+    "carrier": "VRL Logistics"
+  },
+  {
+    "id": "GRV-9820",
+    "customer": {
+      "name": "Vanguard Farm Solutions",
+      "contactPerson": "Gurpreet Singh",
+      "email": "purchasing@vanguardfarms.in",
+      "phone": "+91 98140 22910",
+      "city": "Ludhiana",
+      "state": "Punjab",
+      "address": "Focal Point Phase 5, Ludhiana 141010"
+    },
+    "dealerId": "DEALER_001",
+    "dealerName": "Apex Agri-Tech & Machinery",
+    "items": [
+      {
+        "id": "PROD_012",
+        "sku": "AU-ALT-404",
+        "name": "Duramax Tractor Alternator 120A Heavy Duty",
+        "price": 8200,
+        "quantity": 1
+      }
+    ],
+    "amount": 8200,
+    "amountFormatted": "₹8,200",
+    "paymentMethod": "Corporate Card",
+    "paymentStatus": "Paid",
+    "orderStatus": "Shipped",
+    "date": "2024-10-23 04:20 PM",
+    "trackingNumber": "BLR-772910",
+    "carrier": "Blue Dart Express"
+  },
+  {
+    "id": "GRV-7704",
+    "customer": {
+      "name": "Vidarbha Auto Care",
+      "contactPerson": "Nitin Bhende",
+      "email": "nitin@vidarbhaauto.com",
+      "phone": "+91 94231 88401",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "address": "Central Avenue, Gandhibagh, Nagpur 440002"
+    },
+    "dealerId": "DEALER_002",
+    "dealerName": "Kisan Agro Hub & Spares",
+    "items": [
+      {
+        "id": "PROD_008",
+        "sku": "AU-TYR-185",
+        "name": "Commercial All-Weather Radial Tyre 185/65 R15",
+        "price": 4500,
+        "quantity": 1
+      },
+      {
+        "id": "PROD_009",
+        "sku": "AU-BRK-FRT",
+        "name": "Heavy-Duty Front Brake Pad Set (Semi-Metallic)",
+        "price": 1950,
+        "quantity": 1
+      }
+    ],
+    "amount": 6450,
+    "amountFormatted": "₹6,450",
+    "paymentMethod": "UPI Scan",
+    "paymentStatus": "Paid",
+    "orderStatus": "Delivered",
+    "date": "2024-10-22 02:30 PM",
+    "trackingNumber": "DLH-991802",
+    "carrier": "Delhivery Express"
+  },
+  {
+    "id": "GRV-5510",
+    "customer": {
+      "name": "Malwa Agritech Cooperative",
+      "contactPerson": "Satish Tiwari",
+      "email": "stiwari@malwacoop.org",
+      "phone": "+91 98260 99401",
+      "city": "Indore",
+      "state": "Madhya Pradesh",
+      "address": "Sanwer Road Sector C, Indore 452015"
+    },
+    "dealerId": "DEALER_006",
+    "dealerName": "Malwa Farm Equipment Co.",
+    "items": [
+      {
+        "id": "PROD_014",
+        "sku": "AG-ROT-7FT",
+        "name": "Multi-Speed Gear Drive Rotary Tiller 7 Feet",
+        "price": 98000,
+        "quantity": 1
+      }
+    ],
+    "amount": 98000,
+    "amountFormatted": "₹98,000",
+    "paymentMethod": "RTGS Escrow",
+    "paymentStatus": "Paid",
+    "orderStatus": "Delivered",
+    "date": "2024-10-21 11:15 AM",
+    "trackingNumber": "TCI-441029",
+    "carrier": "TCI Freight"
+  },
+  {
+    "id": "GRV-4409",
+    "customer": {
+      "name": "Harish Patel (Farmer)",
+      "contactPerson": "Harish Patel",
+      "email": "farmer@grove.com",
+      "phone": "+91 98200 44102",
+      "city": "Baramati",
+      "state": "Maharashtra",
+      "address": "Survey 45, Rui Shivajinagar, Baramati 413133"
+    },
+    "dealerId": "DEALER_009",
+    "dealerName": "Baramati Bio-Nutrients & Feed",
+    "items": [
+      {
+        "id": "PROD_011",
+        "sku": "AG-BIO-NPK",
+        "name": "Organic Bio-NPK Liquid Microbial Inoculant (20L)",
+        "price": 3200,
+        "quantity": 2
+      }
+    ],
+    "amount": 6400,
+    "amountFormatted": "₹6,400",
+    "paymentMethod": "UPI Scan",
+    "paymentStatus": "Paid",
+    "orderStatus": "Delivered",
+    "date": "2024-10-20 03:45 PM",
+    "trackingNumber": "IND-882019",
+    "carrier": "India Post Speed Cargo"
+  },
+  {
+    "id": "GRV-3312",
+    "customer": {
+      "name": "Godavari Green Orchards",
+      "contactPerson": "Anand Rao",
+      "email": "orchards@godavarigreen.com",
+      "phone": "+91 99490 12099",
+      "city": "Nizamabad",
+      "state": "Telangana",
+      "address": "Armoor Road, Nizamabad 503001"
+    },
+    "dealerId": "DEALER_007",
+    "dealerName": "Deccan Micro-Irrigation Works",
+    "items": [
+      {
+        "id": "PROD_006",
+        "sku": "EL-IOT-301",
+        "name": "Precision Soil Moisture Sensor Telemetry V2",
+        "price": 24500,
+        "quantity": 2
+      }
+    ],
+    "amount": 49000,
+    "amountFormatted": "₹49,000",
+    "paymentMethod": "Net Banking",
+    "paymentStatus": "Paid",
+    "orderStatus": "Packed",
+    "date": "2024-10-24 07:10 AM",
+    "trackingNumber": "DTDC-301982",
+    "carrier": "DTDC Cargo"
+  },
+  {
+    "id": "GRV-2201",
+    "customer": {
+      "name": "Chambal Agri Implements",
+      "contactPerson": "Ravi Sharma",
+      "email": "sharma@chambalagri.com",
+      "phone": "+91 94065 88102",
+      "city": "Gwalior",
+      "state": "Madhya Pradesh",
+      "address": "Transport Nagar Bay 2, Gwalior 474010"
+    },
+    "dealerId": "DEALER_006",
+    "dealerName": "Malwa Farm Equipment Co.",
+    "items": [
+      {
+        "id": "PROD_007",
+        "sku": "EL-NOI-HP",
+        "name": "Industrial Noise Cancelling Radio Headset",
+        "price": 2799,
+        "quantity": 2
+      }
+    ],
+    "amount": 5598,
+    "amountFormatted": "₹5,598",
+    "paymentMethod": "UPI Scan",
+    "paymentStatus": "Refunded",
+    "orderStatus": "Cancelled",
+    "date": "2024-10-19 10:00 AM",
+    "trackingNumber": "—",
+    "carrier": "—"
+  }
+]
+

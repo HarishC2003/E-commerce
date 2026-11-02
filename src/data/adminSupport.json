@@ -1,0 +1,177 @@
+[
+  {
+    "id": "TCK-8812",
+    "source": "Dealer Ticket",
+    "ticketType": "dealer",
+    "requesterName": "Kisan Agro Hub & Spares",
+    "requesterEmail": "hub@grove.com",
+    "requesterRole": "Dealer",
+    "concernedDealer": "Kisan Agro Hub & Spares",
+    "customer": null,
+    "subject": "Delayed courier dock pickup for Solapur bay #4",
+    "category": "Logistics & Courier",
+    "priority": "Urgent",
+    "status": "Escalated",
+    "createdAt": "2024-10-24 09:10 AM",
+    "lastUpdated": "2024-10-24 09:45 AM",
+    "messages": [
+      {
+        "id": "m1",
+        "sender": "Kisan Agro Hub & Spares",
+        "senderRole": "dealer",
+        "timestamp": "09:10 AM",
+        "text": "Delhivery cargo truck did not arrive for scheduled pickup of heavy rotary tiller orders (#GRV-7701). Dock bay #4 is blocked."
+      },
+      {
+        "id": "m2",
+        "sender": "GROVE Admin Operations",
+        "senderRole": "admin",
+        "timestamp": "09:25 AM",
+        "text": "We have escalated this directly to Delhivery regional dispatch control. A secondary vehicle has been dispatched from Pune corridor."
+      }
+    ],
+    "internalNotes": [
+      "Courier account manager contacted at 09:22 AM. Driver had flat tyre near Mohol."
+    ]
+  },
+  {
+    "id": "TCK-8809",
+    "source": "Customer Complaint",
+    "ticketType": "customer",
+    "requesterName": "Kisan Bhoomi FPO",
+    "requesterEmail": "procurement@kisanbhoomi.org",
+    "requesterRole": "Customer / Farm Buyer",
+    "concernedDealer": "Apex Agri-Tech & Machinery",
+    "customer": {
+      "name": "Kisan Bhoomi FPO",
+      "city": "Nashik",
+      "phone": "+91 98201 44219"
+    },
+    "subject": "GST Tax invoice discrepancy on bulk PTO shaft order",
+    "category": "Billing & Tax",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2024-10-24 08:30 AM",
+    "lastUpdated": "2024-10-24 09:15 AM",
+    "messages": [
+      {
+        "id": "m1",
+        "sender": "Kisan Bhoomi FPO",
+        "senderRole": "customer",
+        "timestamp": "08:30 AM",
+        "text": "The e-way bill tax invoice generated on checkout shows 18% GST instead of the subsidized 12% rate for agricultural machinery parts."
+      },
+      {
+        "id": "m2",
+        "sender": "Apex Agri-Tech & Machinery",
+        "senderRole": "dealer",
+        "timestamp": "08:50 AM",
+        "text": "We have reviewed the HSN code. It falls under HSN 8483 with 12% GST. We request Admin to adjust the credit note."
+      }
+    ],
+    "internalNotes": [
+      "Finance team verified HSN 8483 qualifies for 12% concessional rate. Credit memo pending approval."
+    ]
+  },
+  {
+    "id": "TCK-8804",
+    "source": "Dealer Ticket",
+    "ticketType": "dealer",
+    "requesterName": "Kisan Agro Hub & Spares",
+    "requesterEmail": "hub@grove.com",
+    "requesterRole": "Dealer",
+    "concernedDealer": "Kisan Agro Hub & Spares",
+    "customer": null,
+    "subject": "Onboarding request for new Solapur sub-depot",
+    "category": "Merchant Onboarding",
+    "priority": "Normal",
+    "status": "Open",
+    "createdAt": "2024-10-23 04:00 PM",
+    "lastUpdated": "2024-10-23 04:00 PM",
+    "messages": [
+      {
+        "id": "m1",
+        "sender": "Kisan Agro Hub & Spares",
+        "senderRole": "dealer",
+        "timestamp": "04:00 PM",
+        "text": "We have leased an additional 5,000 sq ft warehouse depot near Solapur bypass. Requesting admin verification and pin code linking."
+      }
+    ],
+    "internalNotes": []
+  },
+  {
+    "id": "TCK-8798",
+    "source": "Customer Complaint",
+    "ticketType": "customer",
+    "requesterName": "Bhoomi Shakti FPO",
+    "requesterEmail": "patil@bhoomishakti.co.in",
+    "requesterRole": "Customer / Farm Buyer",
+    "concernedDealer": "Apex Agri-Tech & Machinery",
+    "customer": {
+      "name": "Bhoomi Shakti FPO",
+      "city": "Kolhapur",
+      "phone": "+91 94220 11982"
+    },
+    "subject": "Damaged goods cargo insurance claim (#GRV-9811)",
+    "category": "Transit Claims",
+    "priority": "Urgent",
+    "status": "Escalated",
+    "createdAt": "2024-10-22 01:20 PM",
+    "lastUpdated": "2024-10-23 11:30 AM",
+    "messages": [
+      {
+        "id": "m1",
+        "sender": "Bhoomi Shakti FPO",
+        "senderRole": "customer",
+        "timestamp": "01:20 PM",
+        "text": "The crated drip irrigation screen filters arrived with shattered gauge manifolds. We have unboxing photos ready for inspection."
+      },
+      {
+        "id": "m2",
+        "sender": "Apex Agri-Tech & Machinery",
+        "senderRole": "dealer",
+        "timestamp": "02:15 PM",
+        "text": "Consignment was dispatched with transit insurance policy #IC-99018. Awaiting GROVE platform survey clearance."
+      }
+    ],
+    "internalNotes": [
+      "Photos verified. In-transit rough handling confirmed. Insurance surveyor appointed."
+    ]
+  },
+  {
+    "id": "TCK-8791",
+    "source": "Dealer Ticket",
+    "ticketType": "dealer",
+    "requesterName": "Sahyadri Agro Machinery",
+    "requesterEmail": "orders@sahyadriagro.com",
+    "requesterRole": "Dealer",
+    "concernedDealer": "Sahyadri Agro Implement Works",
+    "customer": null,
+    "subject": "Bulk CSV price synchronization query",
+    "category": "Catalog Sync",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2024-10-21 11:00 AM",
+    "lastUpdated": "2024-10-21 03:20 PM",
+    "messages": [
+      {
+        "id": "m1",
+        "sender": "Sahyadri Agro Machinery",
+        "senderRole": "dealer",
+        "timestamp": "11:00 AM",
+        "text": "Exported bulk price CSV had column encoding warning for rupee symbols."
+      },
+      {
+        "id": "m2",
+        "sender": "GROVE Admin Operations",
+        "senderRole": "admin",
+        "timestamp": "03:15 PM",
+        "text": "UTF-8 BOM encoding format applied. The revised CSV export is now clean."
+      }
+    ],
+    "internalNotes": [
+      "Resolved by applying standard UTF-8 header."
+    ]
+  }
+]
+
